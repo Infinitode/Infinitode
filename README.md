@@ -6,6 +6,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 
 ### Upcoming changes
 
+- Updates with changelogs to `package documentation`.
 - New AI model spaces, specifically for `Acres`, `Bioset`, and `SpaceLens`.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
@@ -18,6 +19,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 ### Latest changes
 
 #### Latest changes:
+- Updated `API documentation` to now include changelogs.
 - Updated `OPEN-ARC` with `Open in Kaggle` and `Open in Colab` buttons.
 - Updated `Dungen API`, and HunggingFace space, with a new model for name generation.
 - Updated `ValX`, with changes to notify users of the bug when using `numpy 2.x`. We also updated the `detect_profanity` function to show more information while eliminating unnecessary printing.
