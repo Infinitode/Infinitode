@@ -70,6 +70,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 ### Latest changes
 
 #### Latest changes:
+- Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
 - Updated `package documentation` to include changelogs.
 - Updated `API documentation` to now include changelogs.
 - Updated `OPEN-ARC` with `Open in Kaggle` and `Open in Colab` buttons.
