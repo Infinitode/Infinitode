@@ -10,43 +10,50 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 
 **ValX**
 
-![Downloads](https://pepy.tech/badge/valx) ![PyPI - Downloads](https://img.shields.io/pypi/dm/valx)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/valx)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/valx)
  ![PyPI Version](https://img.shields.io/pypi/v/valx) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/valx/build_and_publish.yml)
  [![valx](https://snyk.io/advisor/python/valx/badge.svg)](https://snyk.io/advisor/python/valx) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/valx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/valx) ![PyPI - Status](https://img.shields.io/pypi/status/valx) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/valx)
 
 **Hued**
 
-![Downloads](https://pepy.tech/badge/hued) ![PyPI - Downloads](https://img.shields.io/pypi/dm/hued)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/hued)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/hued)
  ![PyPI Version](https://img.shields.io/pypi/v/hued) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/hued/build_and_publish.yml)
  [![hued](https://snyk.io/advisor/python/hued/badge.svg)](https://snyk.io/advisor/python/hued) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/hued) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/hued) ![PyPI - Status](https://img.shields.io/pypi/status/hued) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/hued)
 
 **DeepDefend**
 
-![Downloads](https://pepy.tech/badge/deepdefend) ![PyPI - Downloads](https://img.shields.io/pypi/dm/deepdefend)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/deepdefend)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/deepdefend)
  ![PyPI Version](https://img.shields.io/pypi/v/deepdefend) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/deepdefend/build_and_publish.yml)
  [![deepdefend](https://snyk.io/advisor/python/deepdefend/badge.svg)](https://snyk.io/advisor/python/deepdefend) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/deepdefend) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/deepdefend) ![PyPI - Status](https://img.shields.io/pypi/status/deepdefend) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/deepdefend)
 
 **CodeSafe**
 
-![Downloads](https://pepy.tech/badge/codesafe) ![PyPI - Downloads](https://img.shields.io/pypi/dm/codesafe)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/codesafe)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/codesafe)
  ![PyPI Version](https://img.shields.io/pypi/v/codesafe) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/codesafe/build_and_publish.yml)
  [![codesafe](https://snyk.io/advisor/python/codesafe/badge.svg)](https://snyk.io/advisor/python/codesafe) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/codesafe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/codesafe) ![PyPI - Status](https://img.shields.io/pypi/status/codesafe) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/codesafe)
 
 **PyWebScrapr**
 
-![Downloads](https://pepy.tech/badge/pywebscrapr) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pywebscrapr)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/pywebscrapr)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/pywebscrapr)
  ![PyPI Version](https://img.shields.io/pypi/v/pywebscrapr) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/pywebscrapr/build_and_publish.yml)
  [![pywebscrapr](https://snyk.io/advisor/python/pywebscrapr/badge.svg)](https://snyk.io/advisor/python/pywebscrapr) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/pywebscrapr) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/pywebscrapr) ![PyPI - Status](https://img.shields.io/pypi/status/pywebscrapr) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/pywebscrapr)
 
 **FuncProfiler**
 
-![Downloads](https://pepy.tech/badge/funcprofiler) ![PyPI - Downloads](https://img.shields.io/pypi/dm/funcprofiler)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/funcprofiler)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/funcprofiler)
  ![PyPI Version](https://img.shields.io/pypi/v/funcprofiler) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/funcprofiler/build_and_publish.yml)
  [![funcprofiler](https://snyk.io/advisor/python/funcprofiler/badge.svg)](https://snyk.io/advisor/python/funcprofiler) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/funcprofiler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/funcprofiler) ![PyPI - Status](https://img.shields.io/pypi/status/funcprofiler) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/funcprofiler)
 
 **DupliPy**
 
-![Downloads](https://pepy.tech/badge/duplipy) ![PyPI - Downloads](https://img.shields.io/pypi/dm/duplipy)
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/duplipy)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/duplipy)
  ![PyPI Version](https://img.shields.io/pypi/v/duplipy) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/duplipy/build_and_publish.yml)
  [![duplipy](https://snyk.io/advisor/python/duplipy/badge.svg)](https://snyk.io/advisor/python/duplipy) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/duplipy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/duplipy) ![PyPI - Status](https://img.shields.io/pypi/status/duplipy) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/duplipy)
 
