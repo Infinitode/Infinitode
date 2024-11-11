@@ -1,8 +1,14 @@
 # Infinitode
+[![Static Badge](https://img.shields.io/badge/Spotify-Listen-white?logo=spotify&labelColor=black)](https://open.spotify.com/artist/6NvSE4nOwHy4Cf7Rzb2mVv?si=XxSUyhX9RuW7sdNB5Jk_4Q)
+[![Static Badge](https://img.shields.io/badge/Twitter/X-Visit-white?logo=x&labelColor=black)](https://twitter.com/InfinitodeLtd)
+[![Static Badge](https://img.shields.io/badge/Instagram-Visit-white?logo=instagram&labelColor=black)](https://www.instagram.com/infinitode.ltd/)
+[![Static Badge](https://img.shields.io/badge/Facebook-Visit-white?logo=facebook&labelColor=black)](https://www.facebook.com/Infinitode.LTD)
+[![Static Badge](https://img.shields.io/badge/YouTube-Subscribe-white?logo=youtube&labelColor=black)](https://www.youtube.com/@infinitodeltd)
 
 Welcome to Infinitode, a cutting-edge technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
 
 ## Status
+
 **OPEN-ARC**
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/open-arc.svg?style=social&label=Star)](https://github.com/infinitode/open-arc/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/open-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/open-arc)
