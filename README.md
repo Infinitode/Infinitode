@@ -11,7 +11,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 
 **APIs and Servers**
 
-![Static Badge](https://img.shields.io/badge/API-Maintenance%20In%20Progress-yellow)
+![Static Badge](https://img.shields.io/badge/API-Maintenance%20Complete-green)
 ![Static Badge](https://img.shields.io/badge/Main%20Server-Online-green)
 
 **OPEN-ARC**
