@@ -9,6 +9,11 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 
 ## Status
 
+**APIs and Servers**
+
+![Static Badge](https://img.shields.io/badge/API-Maintenance%20In%20Progress-yellow)
+![Static Badge](https://img.shields.io/badge/Main%20Server-Online-green)
+
 **OPEN-ARC**
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/open-arc.svg?style=social&label=Star)](https://github.com/infinitode/open-arc/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/open-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/open-arc)
