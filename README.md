@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 # Infinitode
 [![Static Badge](https://img.shields.io/badge/Spotify-Listen-white?logo=spotify&labelColor=black)](https://open.spotify.com/artist/6NvSE4nOwHy4Cf7Rzb2mVv?si=XxSUyhX9RuW7sdNB5Jk_4Q)
