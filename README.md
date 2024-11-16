@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Infinitode
 [![Static Badge](https://img.shields.io/badge/Spotify-Listen-white?logo=spotify&labelColor=black)](https://open.spotify.com/artist/6NvSE4nOwHy4Cf7Rzb2mVv?si=XxSUyhX9RuW7sdNB5Jk_4Q)
 [![Static Badge](https://img.shields.io/badge/Twitter/X-Visit-white?logo=x&labelColor=black)](https://twitter.com/InfinitodeLtd)
