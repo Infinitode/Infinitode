@@ -88,6 +88,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 ### Latest changes
 
 #### Latest changes:
+- Updated the security of all APIs, and API resources.
 - Updated `ValX` to version `0.2.3`. ValX now allows more granular control over sensitive information detection and removal along with new detection patterns for sensitive information.
 - Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
 - Updated `package documentation` to include changelogs.
