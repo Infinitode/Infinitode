@@ -78,6 +78,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 
 ### Upcoming changes
 
+- Update to `Dungen` that includes new name generation options.
 - New AI model spaces, specifically for `Acres`, `Bioset`, and `SpaceLens`.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
