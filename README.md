@@ -1,6 +1,7 @@
 ![Header](./header.png)
 
 # Infinitode
+[![Static Badge](https://img.shields.io/badge/Website-Visit-green)](https://infinitode.netlify.app)
 [![Static Badge](https://img.shields.io/badge/Spotify-Listen-white?logo=spotify&labelColor=black)](https://open.spotify.com/artist/6NvSE4nOwHy4Cf7Rzb2mVv?si=XxSUyhX9RuW7sdNB5Jk_4Q)
 [![Static Badge](https://img.shields.io/badge/Twitter/X-Visit-white?logo=x&labelColor=black)](https://twitter.com/InfinitodeLtd)
 [![Static Badge](https://img.shields.io/badge/Instagram-Visit-white?logo=instagram&labelColor=black)](https://www.instagram.com/infinitode.ltd/)
