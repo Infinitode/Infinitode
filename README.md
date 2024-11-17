@@ -78,7 +78,6 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 
 ### Upcoming changes
 
-- Update to `Dungen` that includes new name generation options.
 - New AI model spaces, specifically for `Acres`, `Bioset`, and `SpaceLens`.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
@@ -91,6 +90,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 ### Latest changes
 
 #### Latest changes:
+- Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
 - Updated the security of all APIs, and API resources.
 - Updated `ValX` to version `0.2.3`. ValX now allows more granular control over sensitive information detection and removal along with new detection patterns for sensitive information.
 - Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
