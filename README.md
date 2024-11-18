@@ -91,6 +91,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 ### Latest changes
 
 #### Latest changes:
+- Created a new API, `random-facts-generator`, that returns random facts, and their sources.
 - Created a new model for our `Dungen AI` on Huggingface and the API.
 - Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
 - Updated the security of all APIs, and API resources.
