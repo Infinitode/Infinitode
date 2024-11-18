@@ -91,6 +91,7 @@ Welcome to Infinitode, a cutting-edge technology company dedicated to developing
 ### Latest changes
 
 #### Latest changes:
+- Created a new model for our `Dungen AI` on Huggingface and the API.
 - Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
 - Updated the security of all APIs, and API resources.
 - Updated `ValX` to version `0.2.3`. ValX now allows more granular control over sensitive information detection and removal along with new detection patterns for sensitive information.
