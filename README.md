@@ -8,7 +8,7 @@
 [![Static Badge](https://img.shields.io/badge/Facebook-Visit-white?logo=facebook&labelColor=black)](https://www.facebook.com/Infinitode.LTD)
 [![Static Badge](https://img.shields.io/badge/YouTube-Subscribe-white?logo=youtube&labelColor=black)](https://www.youtube.com/@infinitodeltd)
 
-Welcome to Infinitode, a cutting-edge technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
+Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
 
 ## Status
 
