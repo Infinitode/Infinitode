@@ -79,7 +79,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- New AI model spaces, specifically for `Acres`, `Bioset`, and `SpaceLens`.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
@@ -91,6 +90,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- 3 new `AI spaces` on our Huggingface.
 - Created a new project in `OPEN-ARC` and fixed broken links in `README.md`, and `LEADERBOARD.md`.
 - Created a new API, `random-facts-generator`, that returns random facts, and their sources.
 - Created a new model for our `Dungen AI` on Huggingface and the API.
