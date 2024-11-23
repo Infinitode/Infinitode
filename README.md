@@ -94,6 +94,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated the documentation to include links to `functions` under packages for easier access.
+- Updated `Hued` to version `1.0.5` with support for `CIE 1931 XYZ` in `conversions.py`.
 - New open-source `Python Projects` repository. It contains Python projects, steps, tips, and their working code solutions.
 - 3 new `AI spaces` on our Huggingface.
 - Created a new project in `OPEN-ARC` and fixed broken links in `README.md`, and `LEADERBOARD.md`.
