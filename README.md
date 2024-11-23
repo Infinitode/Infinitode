@@ -21,6 +21,10 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/open-arc.svg?style=social&label=Star)](https://github.com/infinitode/open-arc/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/open-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/open-arc)
 
+**Python Projects**
+
+[![GitHub stars](https://img.shields.io/github/stars/infinitode/python-projects.svg?style=social&label=Star)](https://github.com/infinitode/python-projects/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/python-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/python-projects)
+
 
 **ValX**
 
@@ -90,6 +94,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- New open-source `Python Projects` repository. It contains Python projects, steps, tips, and their working code solutions.
 - 3 new `AI spaces` on our Huggingface.
 - Created a new project in `OPEN-ARC` and fixed broken links in `README.md`, and `LEADERBOARD.md`.
 - Created a new API, `random-facts-generator`, that returns random facts, and their sources.
