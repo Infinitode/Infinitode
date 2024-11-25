@@ -17,65 +17,65 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ![Static Badge](https://img.shields.io/badge/API-Maintenance%20Complete-green)
 ![Static Badge](https://img.shields.io/badge/Main%20Server-Online-green)
 
-**OPEN-ARC**
+[**OPEN-ARC**](https://github.com/Infinitode/OPEN-ARC)
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/open-arc.svg?style=social&label=Star)](https://github.com/infinitode/open-arc/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/open-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/open-arc)
 
-**Python Projects**
+[**Python Projects**](https://github.com/Infinitode/python-projects)
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/python-projects.svg?style=social&label=Star)](https://github.com/infinitode/python-projects/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/python-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/python-projects)
 
 
-**ValX**
+[**ValX**](https://github.com/Infinitode/valx)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/valx)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/valx)
  ![PyPI Version](https://img.shields.io/pypi/v/valx) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/valx/build_and_publish.yml)
  [![valx](https://snyk.io/advisor/python/valx/badge.svg)](https://snyk.io/advisor/python/valx) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/valx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/valx) ![PyPI - Status](https://img.shields.io/pypi/status/valx) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/valx)
 
-**Hued**
+[**Hued**](https://github.com/Infinitode/hued)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/hued)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/hued)
  ![PyPI Version](https://img.shields.io/pypi/v/hued) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/hued/build_and_publish.yml)
  [![hued](https://snyk.io/advisor/python/hued/badge.svg)](https://snyk.io/advisor/python/hued) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/hued) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/hued) ![PyPI - Status](https://img.shields.io/pypi/status/hued) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/hued)
 
-**DeepDefend**
+[**DeepDefend**](https://github.com/Infinitode/deepdefend)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/deepdefend)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/deepdefend)
  ![PyPI Version](https://img.shields.io/pypi/v/deepdefend) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/deepdefend/build_and_publish.yml)
  [![deepdefend](https://snyk.io/advisor/python/deepdefend/badge.svg)](https://snyk.io/advisor/python/deepdefend) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/deepdefend) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/deepdefend) ![PyPI - Status](https://img.shields.io/pypi/status/deepdefend) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/deepdefend)
 
-**CodeSafe**
+[**CodeSafe**](https://github.com/Infinitode/codesafe)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/codesafe)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/codesafe)
  ![PyPI Version](https://img.shields.io/pypi/v/codesafe) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/codesafe/build_and_publish.yml)
  [![codesafe](https://snyk.io/advisor/python/codesafe/badge.svg)](https://snyk.io/advisor/python/codesafe) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/codesafe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/codesafe) ![PyPI - Status](https://img.shields.io/pypi/status/codesafe) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/codesafe)
 
-**PyWebScrapr**
+[**PyWebScrapr**](https://github.com/Infinitode/pywebscrapr)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/pywebscrapr)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/pywebscrapr)
  ![PyPI Version](https://img.shields.io/pypi/v/pywebscrapr) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/pywebscrapr/build_and_publish.yml)
  [![pywebscrapr](https://snyk.io/advisor/python/pywebscrapr/badge.svg)](https://snyk.io/advisor/python/pywebscrapr) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/pywebscrapr) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/pywebscrapr) ![PyPI - Status](https://img.shields.io/pypi/status/pywebscrapr) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/pywebscrapr)
 
-**FuncProfiler**
+[**FuncProfiler**](https://github.com/Infinitode/funcprofiler)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/funcprofiler)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/funcprofiler)
  ![PyPI Version](https://img.shields.io/pypi/v/funcprofiler) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/funcprofiler/build_and_publish.yml)
  [![funcprofiler](https://snyk.io/advisor/python/funcprofiler/badge.svg)](https://snyk.io/advisor/python/funcprofiler) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/funcprofiler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/funcprofiler) ![PyPI - Status](https://img.shields.io/pypi/status/funcprofiler) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/funcprofiler)
 
-**DupliPy**
+[**DupliPy**](https://github.com/Infinitode/duplipy)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/duplipy)
  ![PyPI - Downloads](https://img.shields.io/pypi/dm/duplipy)
  ![PyPI Version](https://img.shields.io/pypi/v/duplipy) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/duplipy/build_and_publish.yml)
  [![duplipy](https://snyk.io/advisor/python/duplipy/badge.svg)](https://snyk.io/advisor/python/duplipy) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/duplipy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/duplipy) ![PyPI - Status](https://img.shields.io/pypi/status/duplipy) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/duplipy)
 
-**BlurJS**
+[**BlurJS**](https://github.com/Infinitode/blurjs)
 
 ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/infinitode/blurjs) ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/infinitode/blurjs) ![GitHub Repo stars](https://img.shields.io/github/stars/infinitode/blurjs) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/blurjs)
 
@@ -83,6 +83,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- New `Dungen AI` app, where you can run Dungen models locally, for free.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
@@ -94,16 +95,17 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `Dungen`, and the `Dungen API` with 3 new name generation models.
 - Updated the documentation to include links to `functions` under packages for easier access.
 - Updated `Hued` to version `1.0.5` with support for `CIE 1931 XYZ` in `conversions.py`.
-- New open-source `Python Projects` repository. It contains Python projects, steps, tips, and their working code solutions.
+- New open-source `Python Projects` repository. It contains Python projects, steps, tips, and working code solutions.
 - 3 new `AI spaces` on our Huggingface.
 - Created a new project in `OPEN-ARC` and fixed broken links in `README.md`, and `LEADERBOARD.md`.
 - Created a new API, `random-facts-generator`, that returns random facts, and their sources.
 - Created a new model for our `Dungen AI` on Huggingface and the API.
 - Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
 - Updated the security of all APIs, and API resources.
-- Updated `ValX` to version `0.2.3`. ValX now allows more granular control over sensitive information detection and removal along with new detection patterns for sensitive information.
+- Updated `ValX` to version `0.2.3`. New detection patterns allow more granular control over sensitive information detection and removal.
 - Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
 - Updated `package documentation` to include changelogs.
 - Updated `API documentation` to now include changelogs.
