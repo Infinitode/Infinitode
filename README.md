@@ -83,7 +83,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- New `Dungen AI` app, where you can run Dungen models locally, for free.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
@@ -95,6 +94,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- New `Dungen AI` app, where you can run Dungen models locally, for free.
 - Updated `Dungen`, and the `Dungen API` with 3 new name generation models.
 - Updated the documentation to include links to `functions` under packages for easier access.
 - Updated `Hued` to version `1.0.5` with support for `CIE 1931 XYZ` in `conversions.py`.
