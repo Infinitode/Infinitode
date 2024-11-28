@@ -94,6 +94,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `valx` with forward and backward compatibility fixes with `scikit-learn` versions older or later than `1.3.0`.
 - New `Dungen AI` app, where you can run Dungen models locally, for free.
 - Updated `Dungen`, and the `Dungen API` with 3 new name generation models.
 - Updated the documentation to include links to `functions` under packages for easier access.
