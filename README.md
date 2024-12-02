@@ -83,6 +83,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- Updates to `Dungen's API` and `Dungen AI` with new models.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
@@ -94,6 +95,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `Dungen` on Huggingface (API changes coming soon), with `11 new models` to generate names!
 - Updated `valx` with forward and backward compatibility fixes with `scikit-learn` versions older or later than `1.3.0`.
 - New `Dungen AI` app, where you can run Dungen models locally, for free.
 - Updated `Dungen`, and the `Dungen API` with 3 new name generation models.
