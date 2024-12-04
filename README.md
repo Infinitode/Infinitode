@@ -83,6 +83,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
@@ -95,6 +96,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility and performance (removed old dependencies).
 - Updated `Dungen's API` with the new models for name generation.
 - New [web app](https://infinitode.netlify.app/apps/english-vocabulary-quiz/), and updates on [Bits](https://infinitode.netlify.app/blog), and the website.
 - Updated `Dungen` on Huggingface (API changes coming soon), with `11 new models` to generate names!
