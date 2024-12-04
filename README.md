@@ -95,6 +95,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `Dungen's API` with the new models for name generation.
 - New [web app](https://infinitode.netlify.app/apps/english-vocabulary-quiz/), and updates on [Bits](https://infinitode.netlify.app/blog), and the website.
 - Updated `Dungen` on Huggingface (API changes coming soon), with `11 new models` to generate names!
 - Updated `valx` with forward and backward compatibility fixes with `scikit-learn` versions older or later than `1.3.0`.
