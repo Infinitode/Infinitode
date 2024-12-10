@@ -96,6 +96,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `CodeSafe` with error handling, and removal of unnecessary prints. Related to this pull request: https://github.com/Infinitode/CodeSafe/pull/1.
 - Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility and performance (removed old dependencies).
 - Updated `Dungen's API` with the new models for name generation.
 - New [web app](https://infinitode.netlify.app/apps/english-vocabulary-quiz/), and updates on [Bits](https://infinitode.netlify.app/blog), and the website.
