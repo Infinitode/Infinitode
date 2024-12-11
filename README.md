@@ -83,6 +83,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- Issue templates, and contributing guidelines for all open-source repositories.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
