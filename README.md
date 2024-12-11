@@ -83,7 +83,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Issue templates, and contributing guidelines for all open-source repositories.
+- Open-source `scikit-learn` model updater for older `DecisionTreeClassifier` models.
+- Update to `PyWebScrapr` that automatically removes duplicates when scraping text.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
@@ -97,6 +98,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Created `requirements.txt` files for some repositories.
+- Created `issue templates` and `contributing guidelines` for all open-source repositories.
 - Updated `CodeSafe` with error handling, and removal of unnecessary prints. Related to this pull request: https://github.com/Infinitode/CodeSafe/pull/1.
 - Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility and performance (removed old dependencies).
 - Updated `Dungen's API` with the new models for name generation.
