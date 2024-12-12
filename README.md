@@ -97,6 +97,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `PyWebScrapr` documentation on GitBook.
 - Created an open-source `scikit-learn` model updater for older `DecisionTreeClassifier` models. Learn more here: https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater
 - Created `requirements.txt` files for some repositories.
 - Created `issue templates` and `contributing guidelines` for all open-source repositories.
