@@ -10,6 +10,8 @@
 
 Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
 
+![](https://komarev.com/ghpvc/?username=infinitode&color=5d17eb)
+
 ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=infinitode&show_icons=true&hide=contribs&theme=holi)
 
 ![GitHub statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitode&size_weight=1&count_weight=0&theme=holi)
