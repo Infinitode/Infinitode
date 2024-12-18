@@ -89,7 +89,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
@@ -103,6 +102,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
+- Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
 - Updated `OPEN-ARC` with a new project and improvements to the previous notebook- and `README` files.
 - Updated `PyWebScrapr` documentation on GitBook.
 - Created an open-source `scikit-learn` model updater for older `DecisionTreeClassifier` models. Learn more here: https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater
