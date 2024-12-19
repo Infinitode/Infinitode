@@ -105,6 +105,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Update `Python Projects` with new projects.
 - Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
 - Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
 - Updated `OPEN-ARC` with a new project and improvements to the previous notebook- and `README` files.
