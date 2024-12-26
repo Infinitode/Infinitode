@@ -83,7 +83,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 [**BlurJS**](https://github.com/Infinitode/blurjs)
 
-![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/infinitode/blurjs) ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/infinitode/blurjs) ![GitHub Repo stars](https://img.shields.io/github/stars/infinitode/blurjs) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/blurjs)
+![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/infinitode/blurjs) ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/infinitode/blurjs) ![GitHub Repo stars](https://img.shields.io/github/stars/infinitode/blurjs) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/blurjs)
 
 ## Changes
 
@@ -91,7 +91,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 - Password quiz `game` on the website.
 - Updates to `Synthdat`.
-- Android app release for `Dungen`.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
 - Updates to `Python packages`, including DupliPy, CodeSafe, and others.
@@ -105,6 +104,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Official first release of `Dungen for Android`, available from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-android-1.0 or the [website](https://infinitode.netlify.app/apps/dungen-android/).
 - Update `Python Projects` with new projects.
 - Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
 - Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
