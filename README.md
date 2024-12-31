@@ -89,6 +89,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- First official release of `Dungen Dev`, a new AI model for name generation based on a prompt.
 - Password quiz `game` on the website.
 - Updates to `Synthdat`.
 - First official release of `Scriptify`, a free AI-powered writing tool.
