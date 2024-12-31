@@ -105,9 +105,10 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
-- Update `Python Projects` with a new project.
-- Official first release of `Dungen for Android`, available from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-android-1.0 or the [website](https://infinitode.netlify.app/apps/dungen-android/).
-- Update `Python Projects` with new projects.
+- Updated the `website's styles` with a new navigation bar and improved styles for mobile devices.
+- Updated `Python Projects` with a new project.
+- Official first release of `Dungen for Android` available from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-android-1.0 or the [website](https://infinitode.netlify.app/apps/dungen-android/).
+- Updated `Python Projects` with new projects.
 - Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
 - Update to `PyWebScrapr` which automatically removes duplicates when scraping text.
 - Updated `OPEN-ARC` with a new project and improvements to the previous notebook- and `README` files.
