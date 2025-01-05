@@ -93,7 +93,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Updates to `Synthdat`.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
-- Updates to `Python packages`, including DupliPy, CodeSafe, and others.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
 - New `3D assets`, `samples`, and `models` on our website, or access via a dedicated app.
@@ -105,6 +104,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `DupliPy` to `0.2.4` with 3 new replication functions, and a post-formatting function in `duplipy.formatting`.
 - First official release of `Dungen Dev`, a new AI model for name generation based on a prompt.
 - Updated the `website's styles` with a new navigation bar and improved styles for mobile devices.
 - Updated `Python Projects` with a new project.
