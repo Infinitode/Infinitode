@@ -104,6 +104,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `BlurJS` to version `1.3` with added support for multiple animations and new timing parameters to adjust easing. View more in the docs: https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation
 - Updated `DupliPy` to `0.2.4` with 3 new replication functions, and a post-formatting function in `duplipy.formatting`.
 - First official release of `Dungen Dev`, a new AI model for name generation based on a prompt.
 - Updated the `website's styles` with a new navigation bar and improved styles for mobile devices.
