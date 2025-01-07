@@ -89,7 +89,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Password quiz `game` on the website.
 - Updates to `Synthdat`.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - Updates to `Dungen's API` and `Dungen AI` with new models.
@@ -104,6 +103,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Password quiz `game` on the website! Head over to: https://infinitode.netlify.app/apps/password-game/ to start playing.
 - Updated `BlurJS` to version `1.3` with added support for multiple animations and new timing parameters to adjust easing. View more in the docs: https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation
 - Updated `DupliPy` to `0.2.4` with 3 new replication functions, and a post-formatting function in `duplipy.formatting`.
 - First official release of `Dungen Dev`, a new AI model for name generation based on a prompt.
