@@ -91,7 +91,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 - Updates to `Synthdat`.
 - First official release of `Scriptify`, a free AI-powered writing tool.
-- Updates to `Dungen's API` and `Dungen AI`.
+- Updates to `Dungen AI`.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
 - New `3D assets`, `samples`, and `models` on our website, or access via a dedicated app.
@@ -103,7 +103,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
-- New models for `Dungen AI` on Huggingface spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen
+- New models now available through the `Dungen API`.
+- 9 new models for `Dungen AI` on Huggingface spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen
 - New mobile navigation bar on the website, with some style improvements: https://infinitode.netlify.app
 - Password quiz `game` on the website! Head over to: https://infinitode.netlify.app/apps/password-game/ to start playing.
 - Updated `BlurJS` to version `1.3` with added support for multiple animations and new timing parameters to adjust easing. View more in the docs: https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation
