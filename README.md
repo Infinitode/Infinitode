@@ -108,7 +108,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
-- Release of `PyAutoPlot`, an open-source Python plotting library that automatically plots your dataset using `matplotlib`.
+- Release of `PyAutoPlot`, an open-source Python plotting library that automatically plots your dataset using `matplotlib`. You can view the docs from here: https://infinitode-docs.gitbook.io/documentation/package-documentation/pyautoplot-package-documentation
 - `Dungen AI` updated to version `1.2.0` with 9 new models, performance improvements, and UI updates. Download binaries from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-ai-1.2.0
 - New models are now available through the `Dungen API`.
 - 9 new models for `Dungen AI` on Huggingface spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen
