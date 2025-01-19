@@ -31,6 +31,12 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/python-projects.svg?style=social&label=Star)](https://github.com/infinitode/python-projects/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/python-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/python-projects)
 
+[**PyAutoPlot**](https://github.com/Infinitode/pyautoplot)
+
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/pyautoplot)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyautoplot)
+ ![PyPI Version](https://img.shields.io/pypi/v/pyautoplot) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/pyautoplot/build_and_publish.yml)
+ [![pyautoplot](https://snyk.io/advisor/python/pyautoplot/badge.svg)](https://snyk.io/advisor/python/pyautoplot) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/pyautoplot) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/pyautoplot) ![PyPI - Status](https://img.shields.io/pypi/status/pyautoplot) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/pyautoplot)
 
 [**ValX**](https://github.com/Infinitode/valx)
 
@@ -102,6 +108,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Release of `PyAutoPlot`, an open-source Python plotting library that automatically plots your dataset using `matplotlib`.
 - `Dungen AI` updated to version `1.2.0` with 9 new models, performance improvements, and UI updates. Download binaries from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-ai-1.2.0
 - New models are now available through the `Dungen API`.
 - 9 new models for `Dungen AI` on Huggingface spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen
