@@ -20,7 +20,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 **APIs and Servers**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0c87c235-c5bc-4a4f-be53-cfd1aca1b509/deploy-status)](https://app.netlify.com/sites/infinitode/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/0c87c235-c5bc-4a4f-be53-cfd1aca1b509/deploy-status)
 ![Static Badge](https://img.shields.io/badge/API-Maintenance%20Complete-green)
 ![Static Badge](https://img.shields.io/badge/Main%20Server-Online-green)
 
