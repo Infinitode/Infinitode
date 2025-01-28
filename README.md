@@ -20,6 +20,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 **APIs and Servers**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c87c235-c5bc-4a4f-be53-cfd1aca1b509/deploy-status)](https://app.netlify.com/sites/infinitode/deploys)
 ![Static Badge](https://img.shields.io/badge/API-Maintenance%20Complete-green)
 ![Static Badge](https://img.shields.io/badge/Main%20Server-Online-green)
 
@@ -108,6 +109,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated the website with the first `material library` release. You can find it here: https://infinitode.netlify.app/resources/material-library.
 - Updated `Python Projects` with 2 new projects. One beginner project and the first intermediate project.
 - Release of `Dungen Dev API` for custom integrations of Dungen Dev.
 - Release of `PyAutoPlot`, an open-source Python plotting library that automatically plots your dataset using `matplotlib`. You can view the docs from here: https://infinitode-docs.gitbook.io/documentation/package-documentation/pyautoplot-package-documentation
