@@ -7,6 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/Instagram-Visit-white?logo=instagram&labelColor=black)](https://www.instagram.com/infinitode.ltd/)
 [![Static Badge](https://img.shields.io/badge/Facebook-Visit-white?logo=facebook&labelColor=black)](https://www.facebook.com/Infinitode.LTD)
 [![Static Badge](https://img.shields.io/badge/YouTube-Subscribe-white?logo=youtube&labelColor=black)](https://www.youtube.com/@infinitodeltd)
+[![Static Badge](https://img.shields.io/badge/Huggingface-Visit-white?logo=huggingface&labelColor=black)](https://huggingface.co/InfinitodeLTD)
 
 Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
 
@@ -91,6 +92,26 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 [**BlurJS**](https://github.com/Infinitode/blurjs)
 
 ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/infinitode/blurjs) ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/infinitode/blurjs) ![GitHub Repo stars](https://img.shields.io/github/stars/infinitode/blurjs) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/blurjs)
+
+## Our Repositories
+
+| Repository Name | Description                 | Language | Link |
+|-----------------|-----------------------------|----------|------|
+| Infinitode          | Our GitHub profile.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Infinitode) |
+| Python Projects          | Example projects for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Python-Projects) |
+| PyAutoPlot          | Automatic plotting library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/PyAutoPlot) |
+| CodeSafe          | Code obfuscation and safe eval library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/CodeSafe) |
+| Distributables          | Distributable files for our software.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Distributables) |
+| BlurJS          | Modular JavaScript library for creating blurs.       | JavaScript   | [Go ▶️](https://github.com/Infinitode/BlurJS) |
+| DupliPy          | Python library for augmentation tasks.       | Python   | [Go ▶️](https://github.com/Infinitode/DupliPy) |
+| PyWebScrapr          | Python library for text and image scraping.       | Python   | [Go ▶️](https://github.com/Infinitode/PyWebScrapr) |
+| OPEN-ARC          | Open-source project for AI collaboration with example projects.       | Python   | [Go ▶️](https://github.com/Infinitode/OPEN-ARC) |
+| Scikit-Learn DecisionTreeClassifier Updater          | Python tool to convert older Sklearn DecisionTreeClassifier models to newer versions.       | Python   | [Go ▶️](https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater) |
+| DeepDefend          | Python library for deep learning defenses and attacks.       | Python   | [Go ▶️](https://github.com/Infinitode/DeepDefend) |
+| ValX          | A data validation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/ValX) |
+| Hued          | A color conversion and manipulation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Hued) |
+| FuncProfiler          | Python library for function profiling with line-by-line profiling support.       | Python   | [Go ▶️](https://github.com/Infinitode/FuncProfiler) |
+| PWLDS          | A password strength dataset.       | Markdown   | [Go ▶️](https://github.com/Infinitode/PWLDS) |
 
 ## Changes
 
