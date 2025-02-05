@@ -118,6 +118,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Upcoming changes
 
 - Updates to `Synthdat`.
+- Updates to `OPEN-ARC` and `Python Projects`.
+- New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - New `AI APIs`.
 - Updates to `pricing` information, and a total overhaul of the `website`.
