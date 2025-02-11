@@ -132,6 +132,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
 - Created a new `Huggingface space`, MycoNom (an AI model, for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
 - Updated `OPEN-ARC` with a new project.
 - Updated the website with the first `material library` release. You can find it here: https://infinitode.netlify.app/resources/material-library.
