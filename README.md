@@ -117,6 +117,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- Updates to `Dungen Dev` with improvements to the model.
 - Updates to `Synthdat`.
 - Updates to `OPEN-ARC` and `Python Projects`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
