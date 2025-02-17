@@ -119,7 +119,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 - Updates to `Dungen Dev` with improvements to the model.
 - Updates to `Synthdat`.
-- Updates to `OPEN-ARC` and `Python Projects`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - First official release of `Scriptify`, a free AI-powered writing tool.
 - New `AI APIs`.
@@ -133,6 +132,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Python Projects` with 2 new beginner projects.
 - Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
 - Created a new `Huggingface space`, MycoNom (an AI model, for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
 - Updated `OPEN-ARC` with a new project.
