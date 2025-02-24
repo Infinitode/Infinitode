@@ -132,6 +132,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `FuncProfiler` with 2 new export formats.
 - Updated `Python Projects` with 2 new beginner projects.
 - Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
 - Created a new `Huggingface space`, MycoNom (an AI model, for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
