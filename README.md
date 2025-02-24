@@ -115,6 +115,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- CRSD on GitHub, not just Huggingface.
 - Updates to `Dungen Dev` with improvements to the model.
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
@@ -130,6 +131,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Created the CRS Dataset on Huggingface. Learn more here: https://huggingface.co/datasets/InfinitodeLTD/CRSD
 - Updated `DeepDefend` with 5 new functions under `defenses`.
 - Updated `PyWebScrapr` to version `0.1.5` and added a `JSON` export format. Also added support for child link following when scraping text- and image content from links.
 - Updated `FuncProfiler` with 2 new export formats.
