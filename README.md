@@ -132,6 +132,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `PyWebScrapr` to version `0.1.5` and added a `json` export format. Also added support for child link following when scraping text- and image content from links.
 - Updated `FuncProfiler` with 2 new export formats.
 - Updated `Python Projects` with 2 new beginner projects.
 - Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
