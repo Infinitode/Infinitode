@@ -110,12 +110,12 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 | Hued          | A color conversion and manipulation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Hued) |
 | FuncProfiler          | Python library for function profiling with line-by-line profiling support.       | Python   | [Go ▶️](https://github.com/Infinitode/FuncProfiler) |
 | PWLDS          | A password strength dataset.       | Markdown   | [Go ▶️](https://github.com/Infinitode/PWLDS) |
+| CRSD          | A customer review sentiment dataset for sentiment analysis.       | Markdown   | [Go ▶️](https://github.com/Infinitode/CRSD) |
 
 ## Changes
 
 ### Upcoming changes
 
-- CRSD on GitHub, not just Huggingface.
 - Updates to `Dungen Dev` with improvements to the model.
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
@@ -131,6 +131,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- CRSD is now available on GitHub as well. Learn more here: https://github.com/Infinitode/CRSD
 - Created the CRS Dataset on Huggingface. Learn more here: https://huggingface.co/datasets/InfinitodeLTD/CRSD
 - Updated `DeepDefend` with 5 new functions under `defenses`.
 - Updated `PyWebScrapr` to version `0.1.5` and added a `JSON` export format. Also added support for child link following when scraping text- and image content from links.
