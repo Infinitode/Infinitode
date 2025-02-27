@@ -116,7 +116,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Updates to `Dungen Dev` with improvements to the model.
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - First official release of `Scriptify`, a free AI-powered writing tool.
@@ -131,6 +130,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially on higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
 - CRSD is now available on GitHub as well. Learn more here: https://github.com/Infinitode/CRSD
 - Created the CRS Dataset on Huggingface. Learn more here: https://huggingface.co/datasets/InfinitodeLTD/CRSD
 - Updated `DeepDefend` with 5 new functions under `defenses`.
