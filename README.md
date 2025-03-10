@@ -111,6 +111,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 | FuncProfiler          | Python library for function profiling with line-by-line profiling support.       | Python   | [Go ▶️](https://github.com/Infinitode/FuncProfiler) |
 | PWLDS          | A password strength dataset.       | Markdown   | [Go ▶️](https://github.com/Infinitode/PWLDS) |
 | CRSD          | A customer review sentiment dataset for sentiment analysis.       | Markdown   | [Go ▶️](https://github.com/Infinitode/CRSD) |
+| Scriptify          | An open-source writing tool with real-time audio transcription powered by OpenAI's Whisper.       | Python   | [Go ▶️](https://github.com/Infinitode/Scriptify) |
 
 ## Changes
 
@@ -118,9 +119,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
-- First official release of `Scriptify`, a free AI-powered writing tool.
 - New `AI APIs`.
-- Updates to `pricing` information, and a total overhaul of the `website`.
+- Updates to `pricing` information and a total overhaul of the `website`.
 - New `3D assets`, `samples`, and `models` on our website, or access via a dedicated app.
 
 > [!NOTE]
@@ -130,6 +130,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- First official release of Scriptify! Scriptify is an AI-powered writing tool with real-time audio transcription powered by OpenAI's Whisper models. Learn more from here: https://github.com/Infinitode/Scriptify.
 - Updated `Distributables` README for clearer information to users regarding our releases and signing of releases.
 - Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially on higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
 - CRSD is now available on GitHub as well. Learn more here: https://github.com/Infinitode/CRSD
