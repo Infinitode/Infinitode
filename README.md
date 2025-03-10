@@ -6,14 +6,9 @@
 [![Static Badge](https://img.shields.io/badge/Facebook-Visit-white?logo=facebook&labelColor=black)](https://www.facebook.com/Infinitode.LTD)
 [![Static Badge](https://img.shields.io/badge/YouTube-Subscribe-white?logo=youtube&labelColor=black)](https://www.youtube.com/@infinitodeltd)
 [![Static Badge](https://img.shields.io/badge/Huggingface-Visit-white?logo=huggingface&labelColor=black)](https://huggingface.co/InfinitodeLTD)
-
-Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
-
 ![](https://komarev.com/ghpvc/?username=infinitode&color=5d17eb)
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=infinitode&show_icons=true&hide=contribs)
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitode&size_weight=1&count_weight=0)
+Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
 
 ## Status
 
