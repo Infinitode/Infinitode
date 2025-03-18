@@ -26,6 +26,13 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/python-projects.svg?style=social&label=Star)](https://github.com/infinitode/python-projects/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/python-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/python-projects)
 
+[**LocalSiteMap**](https://github.com/Infinitode/localsitemap)
+
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/localsitemap)
+ ![PyPI - Downloads](https://img.shields.io/pypi/dm/localsitemap)
+ ![PyPI Version](https://img.shields.io/pypi/v/localsitemap) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/infinitode/localsitemap/build_and_publish.yml)
+ [![localsitemap](https://snyk.io/advisor/python/localsitemap/badge.svg)](https://snyk.io/advisor/python/localsitemap) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/pypi/localsitemap) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/localsitemap) ![PyPI - Status](https://img.shields.io/pypi/status/localsitemap) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/localsitemap)
+
 [**PyAutoPlot**](https://github.com/Infinitode/pyautoplot)
 
 ![Pepy Total Downloads](https://img.shields.io/pepy/dt/pyautoplot)
@@ -93,6 +100,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 | Infinitode          | Our GitHub profile.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Infinitode) |
 | Python Projects          | Example projects for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Python-Projects) |
 | PyAutoPlot          | Automatic plotting library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/PyAutoPlot) |
+| LocalSiteMap          | Automatic sitemap generator for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/LocalSiteMap) |
 | CodeSafe          | Code obfuscation and safe eval library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/CodeSafe) |
 | Distributables          | Distributable files for our software.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Distributables) |
 | BlurJS          | Modular JavaScript library for creating blurs.       | JavaScript   | [Go ▶️](https://github.com/Infinitode/BlurJS) |
@@ -125,6 +133,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- `LocalSiteMap` first commit! It is an open-source Python package for local sitemap generation.
+- New web apps: https://infinitode.netlify.app/apps and AI demos: https://infinitode.netlify.app/ai
 - First official release of Scriptify! Scriptify is an AI-powered writing tool with real-time audio transcription powered by OpenAI's Whisper models. Learn more from here: https://github.com/Infinitode/Scriptify.
 - Updated `Distributables` README for clearer information to users regarding our releases and signing of releases.
 - Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially on higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
