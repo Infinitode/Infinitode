@@ -133,6 +133,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Python Projects` with 2 new beginner projects.
 - Updated `Dungen Dev` to version 1.2, now more context-aware. The model benefits from higher temperature values, for more creative results. Use it on our API, [Hugging Face Spaces](https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev) or on our website: https://infinitode.netlify.app/ai.
 - `LocalSiteMap` first commit! It is an open-source Python package for local sitemap generation.
 - New web apps: https://infinitode.netlify.app/apps and AI demos: https://infinitode.netlify.app/ai
