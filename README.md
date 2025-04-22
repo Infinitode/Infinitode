@@ -120,11 +120,12 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- First open-source release of LocalShare. Visit the live demo here: https://local-share.netlify.app/
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
 - Updates to `pricing` information and a total overhaul of the `website`.
-- New `3D assets`, `samples`, and `models` on our website, or access via a dedicated app.
+- New `3D assets`, `samples`, and `models` are on our website or can be accessed via a dedicated app.
 
 > [!NOTE]
 > Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
