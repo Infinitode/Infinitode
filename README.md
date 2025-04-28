@@ -22,6 +22,10 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/open-arc.svg?style=social&label=Star)](https://github.com/infinitode/open-arc/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/open-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/open-arc)
 
+[**LocalShare**](https://github.com/Infinitode/LocalShare)
+
+[![GitHub stars](https://img.shields.io/github/stars/infinitode/localshare.svg?style=social&label=Star)](https://github.com/infinitode/localshare/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/localshare) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/localshare)
+
 [**Python Projects**](https://github.com/Infinitode/python-projects)
 
 [![GitHub stars](https://img.shields.io/github/stars/infinitode/python-projects.svg?style=social&label=Star)](https://github.com/infinitode/python-projects/stargazers) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/infinitode/python-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/python-projects)
@@ -99,6 +103,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 |-----------------|-----------------------------|----------|------|
 | Infinitode          | Our GitHub profile.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Infinitode) |
 | Python Projects          | Example projects for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Python-Projects) |
+| LocalShare          | Minimal peer-to-peer file-sharing app built using HTML, CSS, and JS.       | HTML, CSS, JS   | [Go ▶️](https://github.com/Infinitode/LocalShare) |
 | PyAutoPlot          | Automatic plotting library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/PyAutoPlot) |
 | LocalSiteMap          | Automatic sitemap generator for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/LocalSiteMap) |
 | CodeSafe          | Code obfuscation and safe eval library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/CodeSafe) |
@@ -120,7 +125,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- First open-source release of LocalShare. Visit the live demo here: https://local-share.netlify.app/
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -134,7 +138,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
-- Updated `Hued` to version `1.0.6`: New `export_palette` function to export palette data to CSV, TXT, and JSON and a function to generate gradients under `ColorPalette`.
+- First open-source release of [LocalShare](https://github.com/Infinitode/LocalShare). Visit the live demo here: https://local-share.netlify.app/
+- Updated `Hued` to version `1.0.6`: New `export_palette` function to export palette data to CSV, TXT, and JSON, and a function to generate gradients under `ColorPalette`.
 - Updated `PWLDS` with 5 million new passwords. It now contains over 10 million unique passwords with strength level classes.
 - Updated `Python Projects` with 2 new beginner projects.
 - Updated `Dungen Dev` to version 1.2, now more context-aware. The model benefits from higher temperature values for more creative results. Use it on our API, [Hugging Face Spaces](https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev), or on our website: https://infinitode.netlify.app/ai.
@@ -142,15 +147,15 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - New web apps: https://infinitode.netlify.app/apps and AI demos: https://infinitode.netlify.app/ai
 - First official release of Scriptify! Scriptify is an AI-powered writing tool with real-time audio transcription powered by OpenAI's Whisper models. Learn more here: https://github.com/Infinitode/Scriptify.
 - Updated `Distributables` README for clearer information to users regarding our releases and signing of releases.
-- Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially on higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
+- Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially at higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
 - CRSD is now available on GitHub as well. Learn more here: https://github.com/Infinitode/CRSD
 - Created the CRS Dataset on Huggingface. Learn more here: https://huggingface.co/datasets/InfinitodeLTD/CRSD
 - Updated `DeepDefend` with 5 new functions under `defenses`.
-- Updated `PyWebScrapr` to version `0.1.5` and added a `JSON` export format. Also added support for child link following when scraping text- and image content from links.
+- Updated `PyWebScrapr` to version `0.1.5` and added a `JSON` export format. Also added support for child link following when scraping text and image content from links.
 - Updated `FuncProfiler` with 2 new export formats.
 - Updated `Python Projects` with 2 new beginner projects.
 - Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
-- Created a new `Huggingface space`, MycoNom (an AI model, for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
+- Created a new `Huggingface space`, MycoNom (an AI model for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
 - Updated `OPEN-ARC` with a new project.
 - Updated the website with the first `material library` release. You can find it here: https://infinitode.netlify.app/resources/material-library.
 - Updated `Python Projects` with 2 new projects. One beginner project and the first intermediate project.
@@ -169,29 +174,29 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Official first release of `Dungen for Android` available from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-android-1.0 or the [website](https://infinitode.netlify.app/apps/dungen-android/).
 - Updated `Python Projects` with new projects.
 - Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
-- Update to `PyWebScrapr` which automatically removes duplicates when scraping text.
-- Updated `OPEN-ARC` with a new project and improvements to the previous notebook- and `README` files.
+- Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
+- Updated `OPEN-ARC` with a new project and improvements to the previous notebook and `README` files.
 - Updated `PyWebScrapr` documentation on GitBook.
 - Created an open-source `scikit-learn` model updater for older `DecisionTreeClassifier` models. Learn more here: https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater
 - Created `requirements.txt` files for some repositories.
 - Created `issue templates` and `contributing guidelines` for all open-source repositories.
-- Updated `CodeSafe` with error handling, and removal of unnecessary prints. Related to this pull request: https://github.com/Infinitode/CodeSafe/pull/1.
-- Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility and performance (removed old dependencies).
+- Updated `CodeSafe` to handle errors and remove unnecessary prints. Related to this pull request: https://github.com/Infinitode/CodeSafe/pull/1.
+- Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility, and performance (removed old dependencies).
 - Updated `Dungen's API` with the new models for name generation.
 - New [web app](https://infinitode.netlify.app/apps/english-vocabulary-quiz/), and updates on [Bits](https://infinitode.netlify.app/blog), and the website.
 - Updated `Dungen` on Huggingface (API changes coming soon), with `11 new models` to generate names!
 - Updated `valx` with forward and backward compatibility fixes with `scikit-learn` versions older or later than `1.3.0`.
-- New `Dungen AI` app, where you can run Dungen models locally, for free.
-- Updated `Dungen`, and the `Dungen API` with 3 new name generation models.
+- There is a new `Dungen AI` app where you can run Dungen models locally for free.
+- Updated `Dungen` and the `Dungen API` with 3 new name generation models.
 - Updated the documentation to include links to `functions` under packages for easier access.
 - Updated `Hued` to version `1.0.5` with support for `CIE 1931 XYZ` in `conversions.py`.
 - New open-source `Python Projects` repository. It contains Python projects, steps, tips, and working code solutions.
 - 3 new `AI spaces` on our Huggingface.
-- Created a new project in `OPEN-ARC` and fixed broken links in `README.md`, and `LEADERBOARD.md`.
-- Created a new API, `random-facts-generator`, that returns random facts, and their sources.
+- Created a new project in `OPEN-ARC` and fixed broken links in `README.md` and `LEADERBOARD.md`.
+- Created a new API, `random-facts-generator`, that returns random facts and their sources.
 - Created a new model for our `Dungen AI` on Huggingface and the API.
 - Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
-- Updated the security of all APIs, and API resources.
+- Updated the security of all APIs and API resources.
 - Updated `ValX` to version `0.2.3`. New detection patterns allow more granular control over sensitive information detection and removal.
 - Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
 - Updated `package documentation` to include changelogs.
@@ -208,13 +213,13 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 #### Older changes:
 - Created `FuncProfiler`, an open-source Python library for analyzing and detecting bottlenecks in code.
 - Updated `DupliPy's` project description on PYPI.
-- Created `Dungen API`, for AI name generation.
-- Created `PWLDS`, an open-source dataset of passwords, and their associated strength levels. Also available on HuggingFace.
+- Created `Dungen API` for AI name generation.
+- Created `PWLDS`, an open-source dataset of passwords and their associated strength levels. Also available on HuggingFace.
 - Created `Distributables`, a repo where you can find the redistributables for our free software.
 - Updated `BlurJS` to include new interactivity triggers.
 
 > [!NOTE]
-> **Latest changes** only cover a few of the changes we have made, for a more comprehensive update, view our social channels, blog, and website for updates.
+> **Latest changes** only cover a few of the changes we have made; for a more comprehensive update, view our social channels, blog, and website for updates.
 
 ## Our mission
 
