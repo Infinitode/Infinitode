@@ -138,6 +138,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Python Projects` with a new project.
 - First open-source release of [LocalShare](https://github.com/Infinitode/LocalShare). Visit the live demo here: https://local-share.netlify.app/
 - Updated `Hued` to version `1.0.6`: New `export_palette` function to export palette data to CSV, TXT, and JSON, and a function to generate gradients under `ColorPalette`.
 - Updated `PWLDS` with 5 million new passwords. It now contains over 10 million unique passwords with strength level classes.
