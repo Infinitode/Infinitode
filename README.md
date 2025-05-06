@@ -138,6 +138,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Uploaded an OPEN-ARC model (TWNGM) to [Hugging Face](https://huggingface.co/InfinitodeLTD/TWNGM-OPEN-ARC).
+- Updated and revamped the documentation on [GitBook](https://infinitode-docs.gitbook.io/documentation).
 - Updated `Python Projects` with a new project.
 - First open-source release of [LocalShare](https://github.com/Infinitode/LocalShare). Visit the live demo here: https://local-share.netlify.app/
 - Updated `Hued` to version `1.0.6`: New `export_palette` function to export palette data to CSV, TXT, and JSON, and a function to generate gradients under `ColorPalette`.
