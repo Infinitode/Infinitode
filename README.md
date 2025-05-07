@@ -138,6 +138,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Added all models from OPEN-ARC to Hugging Face for easier access. View them here: https://huggingface.co/InfinitodeLTD.
 - Uploaded an OPEN-ARC model (TWNGM) to [Hugging Face](https://huggingface.co/InfinitodeLTD/TWNGM-OPEN-ARC).
 - Updated and revamped the documentation on [GitBook](https://infinitode-docs.gitbook.io/documentation).
 - Updated `Python Projects` with a new project.
