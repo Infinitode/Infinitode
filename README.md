@@ -138,6 +138,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Created a live web UI for OPEN-ARC. Visit it here: https://open-arc.netlify.app.
+- Updated OPEN-ARC's `README.md` to be more straightforward to understand.
 - Updated the website's styling. View the live site here: https://infinitode.netlify.app.
 - Created new APIs and overhauled the documentation, including cURL quickstart examples for each API. View the docs: https://infinitode-docs.gitbook.io/documentation.
 - Added all models from OPEN-ARC to Hugging Face for easier access. View them here: https://huggingface.co/InfinitodeLTD.
