@@ -10,6 +10,115 @@
 
 Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
 
+## Changes
+
+### Upcoming changes
+
+- Updates to `Synthdat`.
+- New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
+- New `AI APIs`.
+- Updates to `pricing` information and a total overhaul of the `website`.
+- New `3D assets`, `samples`, and `models` are on our website or can be accessed via a dedicated app.
+
+> [!NOTE]
+> Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
+
+### Latest changes
+
+#### Latest changes:
+
+- `NotionGrid` is now available to use for free! Our infinite note-taking app for developers is available for use at the following URL: https://notiongrid.netlify.app.
+- Created a live web UI for OPEN-ARC. Visit it here: https://open-arc.netlify.app.
+- Updated OPEN-ARC's `README.md` to be more straightforward to understand.
+- Updated the website's styling. View the live site here: https://infinitode.netlify.app.
+- Created new APIs and overhauled the documentation, including cURL quickstart examples for each API. View the docs: https://infinitode-docs.gitbook.io/documentation.
+- Added all models from OPEN-ARC to Hugging Face for easier access. View them here: https://huggingface.co/InfinitodeLTD.
+- Uploaded an OPEN-ARC model (TWNGM) to [Hugging Face](https://huggingface.co/InfinitodeLTD/TWNGM-OPEN-ARC).
+- Updated and revamped the documentation on [GitBook](https://infinitode-docs.gitbook.io/documentation).
+- Updated `Python Projects` with a new project.
+- First open-source release of [LocalShare](https://github.com/Infinitode/LocalShare). Visit the live demo here: https://local-share.netlify.app/
+- Updated `Hued` to version `1.0.6`: New `export_palette` function to export palette data to CSV, TXT, and JSON, and a function to generate gradients under `ColorPalette`.
+- Updated `PWLDS` with 5 million new passwords. It now contains over 10 million unique passwords with strength level classes.
+- Updated `Python Projects` with 2 new beginner projects.
+- Updated `Dungen Dev` to version 1.2, now more context-aware. The model benefits from higher temperature values for more creative results. Use it on our API, [Hugging Face Spaces](https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev), or on our website: https://infinitode.netlify.app/ai.
+- `LocalSiteMap` first commit! It is an open-source Python package for local sitemap generation.
+- New web apps: https://infinitode.netlify.app/apps and AI demos: https://infinitode.netlify.app/ai
+- First official release of Scriptify! Scriptify is an AI-powered writing tool with real-time audio transcription powered by OpenAI's Whisper models. Learn more here: https://github.com/Infinitode/Scriptify.
+- Updated `Distributables` README for clearer information to users regarding our releases and signing of releases.
+- Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially at higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
+- CRSD is now available on GitHub as well. Learn more here: https://github.com/Infinitode/CRSD
+- Created the CRS Dataset on Huggingface. Learn more here: https://huggingface.co/datasets/InfinitodeLTD/CRSD
+- Updated `DeepDefend` with 5 new functions under `defenses`.
+- Updated `PyWebScrapr` to version `0.1.5` and added a `JSON` export format. Also added support for child link following when scraping text and image content from links.
+- Updated `FuncProfiler` with 2 new export formats.
+- Updated `Python Projects` with 2 new beginner projects.
+- Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
+- Created a new `Huggingface space`, MycoNom (an AI model for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
+- Updated `OPEN-ARC` with a new project.
+- Updated the website with the first `material library` release. You can find it here: https://infinitode.netlify.app/resources/material-library.
+- Updated `Python Projects` with 2 new projects. One beginner project and the first intermediate project.
+- Release of `Dungen Dev API` for custom integrations of Dungen Dev.
+- Release of `PyAutoPlot`, an open-source Python plotting library that automatically plots your dataset using `matplotlib`. You can view the docs from here: https://infinitode-docs.gitbook.io/documentation/package-documentation/pyautoplot-package-documentation
+- `Dungen AI` updated to version `1.2.0` with 9 new models, performance improvements, and UI updates. Download binaries from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-ai-1.2.0
+- New models are now available through the `Dungen API`.
+- 9 new models for `Dungen AI` on Huggingface spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen
+- New mobile navigation bar on the website, with some style improvements: https://infinitode.netlify.app
+- Password quiz `game` on the website! Head over to: https://infinitode.netlify.app/apps/password-game/ to start playing.
+- Updated `BlurJS` to version `1.3` with added support for multiple animations and new timing parameters to adjust easing. View more in the docs: https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation
+- Updated `DupliPy` to `0.2.4` with 3 new replication functions, and a post-formatting function in `duplipy.formatting`.
+- First official release of `Dungen Dev`, a new AI model for name generation based on a prompt.
+- Updated the `website's styles` with a new navigation bar and improved styles for mobile devices.
+- Updated `Python Projects` with a new project.
+- Official first release of `Dungen for Android` available from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-android-1.0 or the [website](https://infinitode.netlify.app/apps/dungen-android/).
+- Updated `Python Projects` with new projects.
+- Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
+- Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
+- Updated `OPEN-ARC` with a new project and improvements to the previous notebook and `README` files.
+- Updated `PyWebScrapr` documentation on GitBook.
+- Created an open-source `scikit-learn` model updater for older `DecisionTreeClassifier` models. Learn more here: https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater
+- Created `requirements.txt` files for some repositories.
+- Created `issue templates` and `contributing guidelines` for all open-source repositories.
+- Updated `CodeSafe` to handle errors and remove unnecessary prints. Related to this pull request: https://github.com/Infinitode/CodeSafe/pull/1.
+- Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility, and performance (removed old dependencies).
+- Updated `Dungen's API` with the new models for name generation.
+- New [web app](https://infinitode.netlify.app/apps/english-vocabulary-quiz/), and updates on [Bits](https://infinitode.netlify.app/blog), and the website.
+- Updated `Dungen` on Huggingface (API changes coming soon), with `11 new models` to generate names!
+- Updated `valx` with forward and backward compatibility fixes with `scikit-learn` versions older or later than `1.3.0`.
+- There is a new `Dungen AI` app where you can run Dungen models locally for free.
+- Updated `Dungen` and the `Dungen API` with 3 new name generation models.
+- Updated the documentation to include links to `functions` under packages for easier access.
+- Updated `Hued` to version `1.0.5` with support for `CIE 1931 XYZ` in `conversions.py`.
+- New open-source `Python Projects` repository. It contains Python projects, steps, tips, and working code solutions.
+- 3 new `AI spaces` on our Huggingface.
+- Created a new project in `OPEN-ARC` and fixed broken links in `README.md` and `LEADERBOARD.md`.
+- Created a new API, `random-facts-generator`, that returns random facts and their sources.
+- Created a new model for our `Dungen AI` on Huggingface and the API.
+- Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
+- Updated the security of all APIs and API resources.
+- Updated `ValX` to version `0.2.3`. New detection patterns allow more granular control over sensitive information detection and removal.
+- Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
+- Updated `package documentation` to include changelogs.
+- Updated `API documentation` to now include changelogs.
+- Updated `OPEN-ARC` with `Open in Kaggle` and `Open in Colab` buttons.
+- Updated `Dungen API`, and HunggingFace space, with a new model for name generation.
+- Updated `ValX`, with changes to notify users of the bug when using `numpy 2.x`. We also updated the `detect_profanity` function to show more information while eliminating unnecessary printing.
+- Updated `Hued` with 500+ new color names in `colors.py`.
+- Updated `DeepDefend's README.md` file to be more informative.
+- Created `Hued`, an open-source Python library for color conversions, analysis, and palettes.
+- Created `CodeSafe`, an open-source Python library for `safe_eval`, and code obfuscation.
+- Updated `PyWebScrapr's` project description on PYPI.
+
+#### Older changes:
+- Created `FuncProfiler`, an open-source Python library for analyzing and detecting bottlenecks in code.
+- Updated `DupliPy's` project description on PYPI.
+- Created `Dungen API` for AI name generation.
+- Created `PWLDS`, an open-source dataset of passwords and their associated strength levels. Also available on HuggingFace.
+- Created `Distributables`, a repo where you can find the redistributables for our free software.
+- Updated `BlurJS` to include new interactivity triggers.
+
+> [!NOTE]
+> **Latest changes** only cover a few of the changes we have made; for a more comprehensive update, view our social channels, blog, and website for updates.
+
 ## Status
 
 **APIs and Servers**
@@ -120,115 +229,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 | PWLDS          | A password strength dataset.       | Markdown   | [Go ▶️](https://github.com/Infinitode/PWLDS) |
 | CRSD          | A customer review sentiment dataset for sentiment analysis.       | Markdown   | [Go ▶️](https://github.com/Infinitode/CRSD) |
 | Scriptify          | An open-source writing tool with real-time audio transcription powered by OpenAI's Whisper.       | Python   | [Go ▶️](https://github.com/Infinitode/Scriptify) |
-
-## Changes
-
-### Upcoming changes
-
-- `NotionGrid`, an infinite note-taking and planning app for developers, based on Markdown.
-- Updates to `Synthdat`.
-- New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
-- New `AI APIs`.
-- Updates to `pricing` information and a total overhaul of the `website`.
-- New `3D assets`, `samples`, and `models` are on our website or can be accessed via a dedicated app.
-
-> [!NOTE]
-> Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
-
-### Latest changes
-
-#### Latest changes:
-
-- Created a live web UI for OPEN-ARC. Visit it here: https://open-arc.netlify.app.
-- Updated OPEN-ARC's `README.md` to be more straightforward to understand.
-- Updated the website's styling. View the live site here: https://infinitode.netlify.app.
-- Created new APIs and overhauled the documentation, including cURL quickstart examples for each API. View the docs: https://infinitode-docs.gitbook.io/documentation.
-- Added all models from OPEN-ARC to Hugging Face for easier access. View them here: https://huggingface.co/InfinitodeLTD.
-- Uploaded an OPEN-ARC model (TWNGM) to [Hugging Face](https://huggingface.co/InfinitodeLTD/TWNGM-OPEN-ARC).
-- Updated and revamped the documentation on [GitBook](https://infinitode-docs.gitbook.io/documentation).
-- Updated `Python Projects` with a new project.
-- First open-source release of [LocalShare](https://github.com/Infinitode/LocalShare). Visit the live demo here: https://local-share.netlify.app/
-- Updated `Hued` to version `1.0.6`: New `export_palette` function to export palette data to CSV, TXT, and JSON, and a function to generate gradients under `ColorPalette`.
-- Updated `PWLDS` with 5 million new passwords. It now contains over 10 million unique passwords with strength level classes.
-- Updated `Python Projects` with 2 new beginner projects.
-- Updated `Dungen Dev` to version 1.2, now more context-aware. The model benefits from higher temperature values for more creative results. Use it on our API, [Hugging Face Spaces](https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev), or on our website: https://infinitode.netlify.app/ai.
-- `LocalSiteMap` first commit! It is an open-source Python package for local sitemap generation.
-- New web apps: https://infinitode.netlify.app/apps and AI demos: https://infinitode.netlify.app/ai
-- First official release of Scriptify! Scriptify is an AI-powered writing tool with real-time audio transcription powered by OpenAI's Whisper models. Learn more here: https://github.com/Infinitode/Scriptify.
-- Updated `Distributables` README for clearer information to users regarding our releases and signing of releases.
-- Updated `Dungen Dev` to version `1.1`! Dungen Dev 1.1 can handle more complex prompts and works well, especially at higher temperatures (0.7 <). This new version of Dungen Dev is available through our API and for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen-Dev
-- CRSD is now available on GitHub as well. Learn more here: https://github.com/Infinitode/CRSD
-- Created the CRS Dataset on Huggingface. Learn more here: https://huggingface.co/datasets/InfinitodeLTD/CRSD
-- Updated `DeepDefend` with 5 new functions under `defenses`.
-- Updated `PyWebScrapr` to version `0.1.5` and added a `JSON` export format. Also added support for child link following when scraping text and image content from links.
-- Updated `FuncProfiler` with 2 new export formats.
-- Updated `Python Projects` with 2 new beginner projects.
-- Created an API for `MycoNom`. View the documentation from here: https://infinitode-docs.gitbook.io/documentation/api-documentation/myconom-api-documentation.
-- Created a new `Huggingface space`, MycoNom (an AI model for mushroom edibility classification). Use it from here: https://huggingface.co/spaces/InfinitodeLTD/MycoNom.
-- Updated `OPEN-ARC` with a new project.
-- Updated the website with the first `material library` release. You can find it here: https://infinitode.netlify.app/resources/material-library.
-- Updated `Python Projects` with 2 new projects. One beginner project and the first intermediate project.
-- Release of `Dungen Dev API` for custom integrations of Dungen Dev.
-- Release of `PyAutoPlot`, an open-source Python plotting library that automatically plots your dataset using `matplotlib`. You can view the docs from here: https://infinitode-docs.gitbook.io/documentation/package-documentation/pyautoplot-package-documentation
-- `Dungen AI` updated to version `1.2.0` with 9 new models, performance improvements, and UI updates. Download binaries from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-ai-1.2.0
-- New models are now available through the `Dungen API`.
-- 9 new models for `Dungen AI` on Huggingface spaces: https://huggingface.co/spaces/InfinitodeLTD/Dungen
-- New mobile navigation bar on the website, with some style improvements: https://infinitode.netlify.app
-- Password quiz `game` on the website! Head over to: https://infinitode.netlify.app/apps/password-game/ to start playing.
-- Updated `BlurJS` to version `1.3` with added support for multiple animations and new timing parameters to adjust easing. View more in the docs: https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation
-- Updated `DupliPy` to `0.2.4` with 3 new replication functions, and a post-formatting function in `duplipy.formatting`.
-- First official release of `Dungen Dev`, a new AI model for name generation based on a prompt.
-- Updated the `website's styles` with a new navigation bar and improved styles for mobile devices.
-- Updated `Python Projects` with a new project.
-- Official first release of `Dungen for Android` available from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-android-1.0 or the [website](https://infinitode.netlify.app/apps/dungen-android/).
-- Updated `Python Projects` with new projects.
-- Update `Dungen` to version `1.2.0`, available from the website, or from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-1.2.0
-- Update to `PyWebScrapr`, which automatically removes duplicates when scraping text.
-- Updated `OPEN-ARC` with a new project and improvements to the previous notebook and `README` files.
-- Updated `PyWebScrapr` documentation on GitBook.
-- Created an open-source `scikit-learn` model updater for older `DecisionTreeClassifier` models. Learn more here: https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater
-- Created `requirements.txt` files for some repositories.
-- Created `issue templates` and `contributing guidelines` for all open-source repositories.
-- Updated `CodeSafe` to handle errors and remove unnecessary prints. Related to this pull request: https://github.com/Infinitode/CodeSafe/pull/1.
-- Updated `Dungen AI` to version `1.1.0`. Now includes new models and improved compatibility, and performance (removed old dependencies).
-- Updated `Dungen's API` with the new models for name generation.
-- New [web app](https://infinitode.netlify.app/apps/english-vocabulary-quiz/), and updates on [Bits](https://infinitode.netlify.app/blog), and the website.
-- Updated `Dungen` on Huggingface (API changes coming soon), with `11 new models` to generate names!
-- Updated `valx` with forward and backward compatibility fixes with `scikit-learn` versions older or later than `1.3.0`.
-- There is a new `Dungen AI` app where you can run Dungen models locally for free.
-- Updated `Dungen` and the `Dungen API` with 3 new name generation models.
-- Updated the documentation to include links to `functions` under packages for easier access.
-- Updated `Hued` to version `1.0.5` with support for `CIE 1931 XYZ` in `conversions.py`.
-- New open-source `Python Projects` repository. It contains Python projects, steps, tips, and working code solutions.
-- 3 new `AI spaces` on our Huggingface.
-- Created a new project in `OPEN-ARC` and fixed broken links in `README.md` and `LEADERBOARD.md`.
-- Created a new API, `random-facts-generator`, that returns random facts and their sources.
-- Created a new model for our `Dungen AI` on Huggingface and the API.
-- Updated Dungen to version `1.1.0`, now supports 5+ games, with improved generation.
-- Updated the security of all APIs and API resources.
-- Updated `ValX` to version `0.2.3`. New detection patterns allow more granular control over sensitive information detection and removal.
-- Updated `PyWebScrapr README.md`. It now displays the PYPI Downloads badge correctly.
-- Updated `package documentation` to include changelogs.
-- Updated `API documentation` to now include changelogs.
-- Updated `OPEN-ARC` with `Open in Kaggle` and `Open in Colab` buttons.
-- Updated `Dungen API`, and HunggingFace space, with a new model for name generation.
-- Updated `ValX`, with changes to notify users of the bug when using `numpy 2.x`. We also updated the `detect_profanity` function to show more information while eliminating unnecessary printing.
-- Updated `Hued` with 500+ new color names in `colors.py`.
-- Updated `DeepDefend's README.md` file to be more informative.
-- Created `Hued`, an open-source Python library for color conversions, analysis, and palettes.
-- Created `CodeSafe`, an open-source Python library for `safe_eval`, and code obfuscation.
-- Updated `PyWebScrapr's` project description on PYPI.
-
-#### Older changes:
-- Created `FuncProfiler`, an open-source Python library for analyzing and detecting bottlenecks in code.
-- Updated `DupliPy's` project description on PYPI.
-- Created `Dungen API` for AI name generation.
-- Created `PWLDS`, an open-source dataset of passwords and their associated strength levels. Also available on HuggingFace.
-- Created `Distributables`, a repo where you can find the redistributables for our free software.
-- Updated `BlurJS` to include new interactivity triggers.
-
-> [!NOTE]
-> **Latest changes** only cover a few of the changes we have made; for a more comprehensive update, view our social channels, blog, and website for updates.
 
 ## Our mission
 
