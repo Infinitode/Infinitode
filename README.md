@@ -125,6 +125,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- `NotionGrid`, an infinite note-taking and planning app for developers, based on Markdown.
 - Updates to `Synthdat`.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
