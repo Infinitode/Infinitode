@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Huge website styles update, and content updates, including a new blog post. Read it here: https://infinitode.netlify.app/blog/open-source-the-good-the-bad-and-the-ugly.
 - Updated `PyAutoPlot` to version 1.0.2, which includes bug fixes, performance enhancements, and code cleanup.
 - `NotionGrid` is now available to use for free! Our infinite note-taking app for developers is available for use at the following URL: https://notiongrid.netlify.app.
 - Created a live web UI for OPEN-ARC. Visit it here: https://open-arc.netlify.app.
