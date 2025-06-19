@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Created `Bolt Templates` on our website. Pure `HTML`, `CSS`, and `JS` websites, apps, and landing pages that are free to use and download. Visit it here: https://infinitode.netlify.app/bolt-templates.
 - Updated `OPEN-ARC` with a new project and fixed some issues on the README file and Project 10 files.
 - Huge website styles update, and content updates, including a new blog post. Read it here: https://infinitode.netlify.app/blog/open-source-the-good-the-bad-and-the-ugly.
 - Updated `PyAutoPlot` to version 1.0.2, which includes bug fixes, performance enhancements, and code cleanup.
