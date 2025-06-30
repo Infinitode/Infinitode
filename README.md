@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Python Projects` with a new beginner project.
 - Updated `BlurJS` with performance improvements and more usage examples.
 - Created `Bolt Templates` on our website. Pure `HTML`, `CSS`, and `JS` websites, apps, and landing pages that are free to use and download. Visit it here: https://infinitode.netlify.app/bolt-templates.
 - Updated `OPEN-ARC` with a new project and fixed some issues on the README file and Project 10 files.
