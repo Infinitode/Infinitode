@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `ValX` to version `0.2.5`, now supporting custom wordlists and files for profanity detection and removal.
 - Updated `Python Projects` with a new beginner project.
 - Updated `BlurJS` with performance improvements and more usage examples.
 - Created `Bolt Templates` on our website. Pure `HTML`, `CSS`, and `JS` websites, apps, and landing pages that are free to use and download. Visit it here: https://infinitode.netlify.app/bolt-templates.
