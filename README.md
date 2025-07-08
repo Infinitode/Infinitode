@@ -14,7 +14,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Updates to `Synthdat`.
+- Updates to the entire `Dungen` range.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
 - Updates to `pricing` information and a total overhaul of the `website`.
@@ -27,6 +27,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated Synthdat to version `1.1.0`, a new model, and major UI improvements. Vist the [app page](https://infinitode.netlify.app/apps/synthdat), or view our `Distributables` release for this [version](https://github.com/Infinitode/Distributables/releases/tag/synthdat-1.1.0).
+- Updated `Distributables` with the new `Synthdat` release and screenshots for all apps.
 - Updated `ValX` to version `0.2.5`, now supporting custom wordlists and files for profanity detection and removal.
 - Updated `Python Projects` with a new beginner project.
 - Updated `BlurJS` with performance improvements and more usage examples.
