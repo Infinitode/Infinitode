@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Python Projects` with 3 new `Beginner` projects and 1 `Intermediate` project.
 - Updated Synthdat to version `1.1.0`, a new model, and major UI improvements. Vist the [app page](https://infinitode.netlify.app/apps/synthdat), or view our `Distributables` release for this [version](https://github.com/Infinitode/Distributables/releases/tag/synthdat-1.1.0).
 - Updated `Distributables` with the new `Synthdat` release and screenshots for all apps.
 - Updated `ValX` to version `0.2.5`, now supporting custom wordlists and files for profanity detection and removal.
