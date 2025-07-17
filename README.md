@@ -27,7 +27,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
-- Create a fun `Typing Speed Test` app, for testing your typing speed and accuracy. View over here: https://infinitode.netlify.app/apps/typing-speed-test.
+- I created a `Reaction Time Tester` app to help you test your reaction time on the go. Check it out here: https://infinitode.netlify.app/apps/reaction-time-tester.
+- Created a fun `Typing Speed Test` app, for testing your typing speed and accuracy. View over here: https://infinitode.netlify.app/apps/typing-speed-test.
 - Created a `Password Generator` web app. Use here: https://infinitode.netlify.app/apps/password-generator.
 - Updated `Python Projects` with 3 new `Beginner` projects and 1 `Intermediate` project.
 - Updated Synthdat to version `1.1.0`, a new model, and major UI improvements. Vist the [app page](https://infinitode.netlify.app/apps/synthdat), or view our `Distributables` release for this [version](https://github.com/Infinitode/Distributables/releases/tag/synthdat-1.1.0).
