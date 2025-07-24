@@ -14,6 +14,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- Updated documentation for `authentication methods` for APIs.
+- New `Bioset` model.
+- Bug fixes for OpenAPI `yaml` files.
 - Updates to the entire `Dungen` range.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
