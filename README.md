@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Created new auth methods for APIs, and added OpenAPI compatibility with downloadable configuration files for Postman, Swagger, Insomnia, and other software.
 - Created a `Reaction Time Tester` app to help you test your reaction time on the go. Check it out here: https://infinitode.netlify.app/apps/reaction-time-tester.
 - Created a fun `Typing Speed Test` app, for testing your typing speed and accuracy. View over here: https://infinitode.netlify.app/apps/typing-speed-test.
 - Created a `Password Generator` web app. Use here: https://infinitode.netlify.app/apps/password-generator.
