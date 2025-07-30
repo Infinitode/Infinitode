@@ -14,9 +14,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Updated documentation for `authentication methods` for APIs.
 - New `Bioset` model.
-- Bug fixes for OpenAPI `yaml` files.
 - Updates to the entire `Dungen` range.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -30,6 +28,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated documentation for `authentication methods` for APIs.
+- Bug fixes for OpenAPI `yaml` files.
 - Created new auth methods for APIs, and added OpenAPI compatibility with downloadable configuration files for Postman, Swagger, Insomnia, and other software.
 - Created a `Reaction Time Tester` app to help you test your reaction time on the go. Check it out here: https://infinitode.netlify.app/apps/reaction-time-tester.
 - Created a fun `Typing Speed Test` app, for testing your typing speed and accuracy. View over here: https://infinitode.netlify.app/apps/typing-speed-test.
