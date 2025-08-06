@@ -15,6 +15,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Upcoming changes
 
 - New `Bioset` model.
+- New creative name generator model.
 - Updates to the entire `Dungen` range.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -28,6 +29,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated Dungen to `v1.3.0`, you can download and use the new version from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-v1.3.0 or https://infinitode.netlify.app/apps/dungen.
+- Updated website styling.
 - Updated documentation for `authentication methods` for APIs.
 - Bug fixes for OpenAPI `yaml` files.
 - Created new auth methods for APIs, and added OpenAPI compatibility with downloadable configuration files for Postman, Swagger, Insomnia, and other software.
