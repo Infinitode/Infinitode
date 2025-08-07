@@ -29,6 +29,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 #### Latest changes:
 
+- Updated `Dungen` Hugging Face space with 6 new AI models for generation.
 - Updated Dungen to `v1.3.0`, you can download and use the new version from here: https://github.com/Infinitode/Distributables/releases/tag/dungen-v1.3.0 or https://infinitode.netlify.app/apps/dungen.
 - Updated website styling.
 - Updated documentation for `authentication methods` for APIs.
