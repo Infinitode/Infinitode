@@ -14,9 +14,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- New `Bioset` model.
 - New creative name generator model.
-- Updates to the entire `Dungen` range.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
 - Updates to `pricing` information and a total overhaul of the `website`.
@@ -28,6 +26,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- New `Bioset` model launched on Hugging Face Spaces, `Bioset Brain Tumor MRI Detection Model`. Check it out here: https://huggingface.co/spaces/InfinitodeLTD/Bioset-Brain-Tumor-MRI-Detection.
+- Updates to the entire `Dungen` range.
+- Deprecated `Dungen for Android`, as it is no longer being maintained.
 - Updated `Dungen AI` with the 6 new AI models. View release at https://github.com/Infinitode/Distributables/releases/tag/dungen-ai-v1.3.0 or https://infinitode.netlify.app/apps/dungen-ai.
 - Updated `Dungen API` and `API Documentation` as well.
 - Updated `Dungen` Hugging Face space with 6 new AI models for generation.
