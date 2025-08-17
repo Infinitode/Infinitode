@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `DupliPy` to `v0.2.5`. This includes enhanced progressbars and new functions for image similarity detection, text analysis and text similarity calculations.
 - New `Bioset` model launched on Hugging Face Spaces, `Bioset Brain Tumor MRI Detection Model`. Check it out here: https://huggingface.co/spaces/InfinitodeLTD/Bioset-Brain-Tumor-MRI-Detection.
 - Updates to the entire `Dungen` range.
 - Deprecated `Dungen for Android`, as it is no longer being maintained.
