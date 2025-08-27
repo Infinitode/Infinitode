@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `CRSD` on Hugging Face and GitHub with new GPT-5-Mini entries, bringing the total dataset size to `~8.2k` reviews.
 - Updated `DupliPy` to `v0.2.5`. This includes enhanced progressbars and new functions for image similarity detection, text analysis and text similarity calculations.
 - New `Bioset` model launched on Hugging Face Spaces, `Bioset Brain Tumor MRI Detection Model`. Check it out here: https://huggingface.co/spaces/InfinitodeLTD/Bioset-Brain-Tumor-MRI-Detection.
 - Updates to the entire `Dungen` range.
