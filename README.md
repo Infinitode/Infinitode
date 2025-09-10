@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `DeepDefend` to `v0.1.4`, with a new attack and a new defense function. We've also fixed some of the defense functions' logic.
 - Updated `LocalSitemap` to `v1.0.1`, with new progress prints using `show_progress`.
 - Fixed `review, sentiment` rows present as entries in our `CRS Dataset` causing `null` values and errors in the csv file.
 - Updated `CRSD` on Hugging Face and GitHub with new GPT-5-Mini entries, bringing the total dataset size to `~8.2k` reviews.
