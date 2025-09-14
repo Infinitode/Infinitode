@@ -14,8 +14,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- Release of `Locus`, a new model for GeoGuessr guessing based on Google Street View images.
+- Release of `Kaos`, for lightning-fast creative name generation based on prompts.
 - Updates to all outdated packages.
-- New creative name generator model.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
 - Updates to `pricing` information and a total overhaul of the `website`.
