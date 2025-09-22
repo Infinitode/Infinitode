@@ -15,7 +15,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Upcoming changes
 
 - Release of `Locus`, a new model for GeoGuessr guessing based on Google Street View images.
-- Release of `Kaos`, for lightning-fast creative name generation based on prompts.
 - Updates to all outdated packages.
 - New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -28,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Released `Kaos`, our name generation model for creatives. Access for free on Hugging Face Sapces: https://huggingface.co/spaces/InfinitodeLTD/KaosGen.
 - Updated `DeepDefend` to `v0.1.4`, with a new attack and a new defense function. We've also fixed some of the defense functions' logic.
 - Updated `LocalSitemap` to `v1.0.1`, with new progress prints using `show_progress`.
 - Fixed `review, sentiment` rows present as entries in our `CRS Dataset` causing `null` values and errors in the csv file.
