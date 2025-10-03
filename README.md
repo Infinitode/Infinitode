@@ -16,10 +16,10 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 - Release of `Locus`, a new model for GeoGuessr guessing based on Google Street View images.
 - Updates to all outdated packages.
-- New AI `Huggingface Spaces`, including models from our Bioset, Spacelens, Arc, and Acres collections.
+- New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
 - Updates to `pricing` information and a total overhaul of the `website`.
-- New `3D assets`, `samples`, and `models` are on our website or can be accessed via a dedicated app.
+- New `3D assets`, `samples`, and `models` on our website or can be accessed via a dedicated app.
 
 > [!NOTE]
 > Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
