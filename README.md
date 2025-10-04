@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated and renamed our `Scikit-learn DecisionTreeClassifier Updater` to `Scikit-learn Model Updater` and added support for various models.
 - Updated `CodeSafe` to `v0.0.3`. Now supports blocking attribute access and changed `immediate_termination` to be `True` by default.
 - Updated `Python Projects` with new beginner and intermediate projects.
 - Updated `OPEN-ARC` with a new project and fixed Project 11 notebook score details.
@@ -254,7 +255,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 | DupliPy          | Python library for augmentation tasks.       | Python   | [Go ▶️](https://github.com/Infinitode/DupliPy) |
 | PyWebScrapr          | Python library for text and image scraping.       | Python   | [Go ▶️](https://github.com/Infinitode/PyWebScrapr) |
 | OPEN-ARC          | Open-source project for AI collaboration with example projects.       | Python   | [Go ▶️](https://github.com/Infinitode/OPEN-ARC) |
-| Scikit-Learn DecisionTreeClassifier Updater          | Python tool to convert older Sklearn DecisionTreeClassifier models to newer versions.       | Python   | [Go ▶️](https://github.com/Infinitode/Scikit-learn-DecisionTreeClassifier-Updater) |
+| Scikit-Learn Model Updater          | Python tool to convert older Sklearn models to newer versions.       | Python   | [Go ▶️](https://github.com/Infinitode/Scikit-learn-Model-Updater) |
 | DeepDefend          | Python library for deep learning defenses and attacks.       | Python   | [Go ▶️](https://github.com/Infinitode/DeepDefend) |
 | ValX          | A data validation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/ValX) |
 | Hued          | A color conversion and manipulation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Hued) |
