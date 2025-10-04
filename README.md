@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Fixed bugs in some handlers of our new `Scikit-learn Model Updater` and improved documentation.
 - Updated and renamed our `Scikit-learn DecisionTreeClassifier Updater` to `Scikit-learn Model Updater` and added support for various models.
 - Updated `CodeSafe` to `v0.0.3`. Now supports blocking attribute access and changed `immediate_termination` to be `True` by default.
 - Updated `Python Projects` with new beginner and intermediate projects.
