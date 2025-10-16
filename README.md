@@ -29,6 +29,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Added collections to our Hugging Face for easier access.
 - New canvases for our music on Spotify.
 - Fixed bugs in some handlers of our new `Scikit-learn Model Updater` and improved documentation.
 - Updated and renamed our `Scikit-learn DecisionTreeClassifier Updater` to `Scikit-learn Model Updater` and added support for various models.
