@@ -29,6 +29,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Uploaded new `OPEN-ARC` models to Hugging Face and updated our collections on Hugging Face.
 - Added collections to our Hugging Face for easier access.
 - New canvases for our music on Spotify.
 - Fixed bugs in some handlers of our new `Scikit-learn Model Updater` and improved documentation.
