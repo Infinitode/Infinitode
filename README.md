@@ -29,6 +29,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `FuncProfiler` to `v1.1.0`, with improvements to exports, new export formats, and more control over what is logged.
 - Updated `BlurJS` to `v1.5` and updated out-of-date documentation on [Gitbook](https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation).
 - Uploaded new `OPEN-ARC` models to Hugging Face and updated our collections on Hugging Face.
 - Added collections to our Hugging Face for easier access.
