@@ -29,6 +29,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 ### Latest changes
 
 #### Latest changes:
+- Updated `LocalShare` with an improved UI and subtle UI animations.
 - Updated `PyWebScrapr` to version `0.1.6`. Now uses multithreading for scraping tasks, includes rate limiting options and progress printing.
 - Updated `FuncProfiler` to `v1.1.0`, with improvements to exports, new export formats, and more control over what is logged.
 - Updated `BlurJS` to `v1.5` and updated out-of-date documentation on [Gitbook](https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation).
