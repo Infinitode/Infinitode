@@ -40,7 +40,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Updated `CodeSafe` to `v0.0.3`. Now supports blocking attribute access and changed `immediate_termination` to be `True` by default.
 - Updated `Python Projects` with new beginner and intermediate projects.
 - Updated `OPEN-ARC` with a new project and fixed Project 11 notebook score details.
-- Released `Kaos`, our name generation model for creatives. Access for free on Hugging Face Sapces: https://huggingface.co/spaces/InfinitodeLTD/KaosGen.
+- Released `Kaos`, our name generation model for creatives. Access for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/KaosGen.
 - Updated `DeepDefend` to `v0.1.4`, with a new attack and a new defense function. We've also fixed some of the defense functions' logic.
 - Updated `LocalSitemap` to `v1.0.1`, with new progress prints using `show_progress`.
 - Fixed `review, sentiment` rows present as entries in our `CRS Dataset` causing `null` values and errors in the csv file.
