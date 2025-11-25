@@ -28,7 +28,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
-#### Latest changes:
 - Updated `LocalShare` with an improved UI and subtle UI animations.
 - Updated `PyWebScrapr` to version `0.1.6`. Now uses multithreading for scraping tasks, includes rate limiting options and progress printing.
 - Updated `FuncProfiler` to `v1.1.0`, with improvements to exports, new export formats, and more control over what is logged.
@@ -151,8 +150,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Created `Hued`, an open-source Python library for color conversions, analysis, and palettes.
 - Created `CodeSafe`, an open-source Python library for `safe_eval`, and code obfuscation.
 - Updated `PyWebScrapr's` project description on PYPI.
-
-#### Older changes:
 - Created `FuncProfiler`, an open-source Python library for analyzing and detecting bottlenecks in code.
 - Updated `DupliPy's` project description on PYPI.
 - Created `Dungen API` for AI name generation.
