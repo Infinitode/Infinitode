@@ -28,6 +28,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `LocalSitemap` to version `1.0.2`. This update includes removing the unecessary dependencies for the package and making it lightweight.
 - Updated `Python Projects` with 3 new beginner projects.
 - Updated the FAQs with new content.
 - Updated `LocalShare` with an improved UI and subtle UI animations.
