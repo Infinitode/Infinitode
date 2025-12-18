@@ -14,8 +14,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- New apps and a huge website update.
-- New experiments under the `/experiments` page on the website, including Dungen Dev in browser along with other cool interactive demos.
 - Release of `Locus`, a new model for GeoGuessr guessing based on Google Street View images.
 - Updates to all outdated packages.
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
@@ -28,6 +26,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- New apps and a huge website update.
+- New experiments under the `/experiments` page on the website, including Dungen Dev in browser along with other cool interactive demos.
 - Updated `LocalSitemap` to version `1.0.2`. This update includes removing the unecessary dependencies for the package and making it lightweight.
 - Updated `Python Projects` with 3 new beginner projects.
 - Updated the FAQs with new content.
