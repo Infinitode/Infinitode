@@ -26,6 +26,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Uploaded the new `OPEN-ARC` model to Hugging Face and updated the collections.
+- Updated `OPEN-ARC` with a new model and project.
 - New apps and a huge website update.
 - New experiments under the `/experiments` page on the website, including Dungen Dev in browser along with other cool interactive demos.
 - Updated `LocalSitemap` to version `1.0.2`. This update includes removing the unecessary dependencies for the package and making it lightweight.
