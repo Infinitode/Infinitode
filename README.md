@@ -14,6 +14,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- More `Bolt Templates`, including two new Tailwind templates.
 - Release of `Locus`, a new model for GeoGuessr guessing based on Google Street View images.
 - Updates to all outdated packages.
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
