@@ -26,6 +26,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `CRSD` with ~2k new reviews using Gemini 3, Grok 4.1 and GPT 5.2.
 - Updated `NotionGrid` to `v2`. With massive improvements to the infinite note grid, grouping, project management, multi-window workflows, and much more.
 - Updated `Bolt Templates` on the website with 2 new templates and a new blog post.
 - Uploaded the new `OPEN-ARC` model to Hugging Face and updated the collections.
