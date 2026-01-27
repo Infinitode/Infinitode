@@ -19,25 +19,26 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
 - Updates to `pricing` information and a total overhaul of the `website`.
-- New `3D assets`, `samples`, and `models` on our website or can be accessed via a dedicated app.
+- New `3D assets`, `samples`, and `models` on our website or via a dedicated app.
 
 > [!NOTE]
 > Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
 
 ### Latest changes
 
-- Updated `CRSD` with ~2k new reviews using Gemini 3, Grok 4.1 and GPT 5.2.
+- Created a `Tailwind Color Shader` that generates 50-950 full Tailwind color palettes based on a HEX color. Try it here: https://infinitode.netlify.app/apps/tailwind-color-shader.
+- Updated `CRSD` with ~2k new reviews using Gemini 3, Grok 4.1, and GPT 5.2.
 - Updated `NotionGrid` to `v2`. With massive improvements to the infinite note grid, grouping, project management, multi-window workflows, and much more.
 - Updated `Bolt Templates` on the website with 2 new templates and a new blog post.
 - Uploaded the new `OPEN-ARC` model to Hugging Face and updated the collections.
 - Updated `OPEN-ARC` with a new model and project.
 - New apps and a huge website update.
-- New experiments under the `/experiments` page on the website, including Dungen Dev in browser along with other cool interactive demos.
+- New experiments under the `/experiments` page on the website, including Dungen Dev in browser, along with other cool interactive demos.
 - Updated `LocalSitemap` to version `1.0.2`. This update includes removing the unecessary dependencies for the package and making it lightweight.
 - Updated `Python Projects` with 3 new beginner projects.
 - Updated the FAQs with new content.
 - Updated `LocalShare` with an improved UI and subtle UI animations.
-- Updated `PyWebScrapr` to version `0.1.6`. Now uses multithreading for scraping tasks, includes rate limiting options and progress printing.
+- Updated `PyWebScrapr` to version `0.1.6`. Now uses multithreading for scraping tasks, includes rate limiting options, and progress printing.
 - Updated `FuncProfiler` to `v1.1.0`, with improvements to exports, new export formats, and more control over what is logged.
 - Updated `BlurJS` to `v1.5` and updated out-of-date documentation on [Gitbook](https://infinitode-docs.gitbook.io/documentation/package-documentation/blurjs-package-documentation).
 - Uploaded new `OPEN-ARC` models to Hugging Face and updated our collections on Hugging Face.
@@ -51,9 +52,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Released `Kaos`, our name generation model for creatives. Access for free on Hugging Face Spaces: https://huggingface.co/spaces/InfinitodeLTD/KaosGen.
 - Updated `DeepDefend` to `v0.1.4`, with a new attack and a new defense function. We've also fixed some of the defense functions' logic.
 - Updated `LocalSitemap` to `v1.0.1`, with new progress prints using `show_progress`.
-- Fixed `review, sentiment` rows present as entries in our `CRS Dataset` causing `null` values and errors in the csv file.
+- Fixed `review, sentiment` rows present as entries in our `CRS Dataset`, causing `null` values and errors in the csv file.
 - Updated `CRSD` on Hugging Face and GitHub with new GPT-5-Mini entries, bringing the total dataset size to `~8.2k` reviews.
-- Updated `DupliPy` to `v0.2.5`. This includes enhanced progressbars and new functions for image similarity detection, text analysis and text similarity calculations.
+- Updated `DupliPy` to `v0.2.5`. This includes enhanced progress bars and new functions for image similarity detection, text analysis, and text similarity calculations.
 - New `Bioset` model launched on Hugging Face Spaces, `Bioset Brain Tumor MRI Detection Model`. Check it out here: https://huggingface.co/spaces/InfinitodeLTD/Bioset-Brain-Tumor-MRI-Detection.
 - Updates to the entire `Dungen` range.
 - Deprecated `Dungen for Android`, as it is no longer being maintained.
@@ -66,16 +67,16 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Bug fixes for OpenAPI `yaml` files.
 - Created new auth methods for APIs, and added OpenAPI compatibility with downloadable configuration files for Postman, Swagger, Insomnia, and other software.
 - Created a `Reaction Time Tester` app to help you test your reaction time on the go. Check it out here: https://infinitode.netlify.app/apps/reaction-time-tester.
-- Created a fun `Typing Speed Test` app, for testing your typing speed and accuracy. View over here: https://infinitode.netlify.app/apps/typing-speed-test.
+- Created a fun `Typing Speed Test` app for testing your typing speed and accuracy. View over here: https://infinitode.netlify.app/apps/typing-speed-test.
 - Created a `Password Generator` web app. Use here: https://infinitode.netlify.app/apps/password-generator.
 - Updated `Python Projects` with 3 new `Beginner` projects and 1 `Intermediate` project.
-- Updated Synthdat to version `1.1.0`, a new model, and major UI improvements. Vist the [app page](https://infinitode.netlify.app/apps/synthdat), or view our `Distributables` release for this [version](https://github.com/Infinitode/Distributables/releases/tag/synthdat-1.1.0).
+- Updated Synthdat to version `1.1.0`, a new model, and major UI improvements. Visit the [app page](https://infinitode.netlify.app/apps/synthdat), or view our `Distributables` release for this [version](https://github.com/Infinitode/Distributables/releases/tag/synthdat-1.1.0).
 - Updated `Distributables` with the new `Synthdat` release and screenshots for all apps.
 - Updated `ValX` to version `0.2.5`, now supporting custom wordlists and files for profanity detection and removal.
 - Updated `Python Projects` with a new beginner project.
 - Updated `BlurJS` with performance improvements and more usage examples.
 - Created `Bolt Templates` on our website. Pure `HTML`, `CSS`, and `JS` websites, apps, and landing pages that are free to use and download. Visit it here: https://infinitode.netlify.app/bolt-templates.
-- Updated `OPEN-ARC` with a new project and fixed some issues on the README file and Project 10 files.
+- Updated `OPEN-ARC` with a new project and fixed some issues in the README file and Project 10 files.
 - Huge website styles update, and content updates, including a new blog post. Read it here: https://infinitode.netlify.app/blog/open-source-the-good-the-bad-and-the-ugly.
 - Updated `PyAutoPlot` to version 1.0.2, which includes bug fixes, performance enhancements, and code cleanup.
 - `NotionGrid` is now available to use for free! Our infinite note-taking app for developers is available for use at the following URL: https://notiongrid.netlify.app.
