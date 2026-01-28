@@ -26,6 +26,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the AI models and datasets documentation on GitBook.
 - Created a `Tailwind Color Shader` that generates 50-950 full Tailwind color palettes based on a HEX color. Try it here: https://infinitode.netlify.app/apps/tailwind-color-shader.
 - Updated `CRSD` with ~2k new reviews using Gemini 3, Grok 4.1, and GPT 5.2.
 - Updated `NotionGrid` to `v2`. With massive improvements to the infinite note grid, grouping, project management, multi-window workflows, and much more.
