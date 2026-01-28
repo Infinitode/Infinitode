@@ -14,7 +14,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Release of `Locus`, a new model for GeoGuessr guessing based on Google Street View images.
 - Updates to all outdated packages.
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -26,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Release of `Locus`, a new model for GeoGuessr guessing based on 80k+ Google Street View images without textual descriptions.
 - Updated the AI models and datasets documentation on GitBook.
 - Created a `Tailwind Color Shader` that generates 50-950 full Tailwind color palettes based on a HEX color. Try it here: https://infinitode.netlify.app/apps/tailwind-color-shader.
 - Updated `CRSD` with ~2k new reviews using Gemini 3, Grok 4.1, and GPT 5.2.
