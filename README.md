@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `ValX` to version 0.2.6 with new language ignore case detection when passing the `language` parameter. Also fixed a major bug where languages were missing, moved, shuffled, etc. in profanity lists (view issue: https://github.com/Infinitode/ValX/issues/4).
 - Released `Live Markdown`, a real-time markdown editor and previewer on [@Infinitode/Experiments](https://infinitode.netlify.app/experiments/), featuring GFM (GitHub Flavored Markdown) support.
 - Release of `Locus`, a new model for GeoGuessr guessing based on 80k+ Google Street View images without textual descriptions.
 - Updated the AI models and datasets documentation on GitBook.
@@ -36,7 +37,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Updated `OPEN-ARC` with a new model and project.
 - New apps and a huge website update.
 - New experiments under the `/experiments` page on the website, including Dungen Dev in browser, along with other cool interactive demos.
-- Updated `LocalSitemap` to version `1.0.2`. This update includes removing the unecessary dependencies for the package and making it lightweight.
+- Updated `LocalSitemap` to version `1.0.2`. This update includes removing the unnecessary dependencies for the package and making it lightweight.
 - Updated `Python Projects` with 3 new beginner projects.
 - Updated the FAQs with new content.
 - Updated `LocalShare` with an improved UI and subtle UI animations.
