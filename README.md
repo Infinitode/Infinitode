@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Released `Live Markdown`, a real-time markdown editor and previewer on [@Infinitode/Experiments](https://infinitode.netlify.app/experiments/), featuring GFM (GitHub Flavored Markdown) support.
 - Release of `Locus`, a new model for GeoGuessr guessing based on 80k+ Google Street View images without textual descriptions.
 - Updated the AI models and datasets documentation on GitBook.
 - Created a `Tailwind Color Shader` that generates 50-950 full Tailwind color palettes based on a HEX color. Try it here: https://infinitode.netlify.app/apps/tailwind-color-shader.
