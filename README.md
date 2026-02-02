@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `OPEN-ARC's` official website to fix scrolling issues on mobile and touch devices.
 - Updated `ValX` documentation on GitBook to reflect the newest version changes and function references.
 - Updated `ValX` to version 0.2.6 to ignore text case when passing the `language` parameter. Also fixed a major bug where languages were missing, moved, shuffled, etc. in profanity lists (view issue: https://github.com/Infinitode/ValX/issues/4).
 - Released `Live Markdown`, a real-time markdown editor and previewer on [@Infinitode/Experiments](https://infinitode.netlify.app/experiments/), featuring GFM (GitHub Flavored Markdown) support.
