@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the website with a new Tic Tac Toe experiment, a total overhaul of our blog's UI, and a new blog post.
 - Updated `Hued` to v1.0.7 with 2 new functions in `analysis.py`: color blindness simulation (major color blindness types) and color quality checking.
 - Updated `OPEN-ARC's` official website to fix scrolling issues on mobile and touch devices.
 - Updated `ValX` documentation on GitBook to reflect the newest version changes and function references.
