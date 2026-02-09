@@ -25,6 +25,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the documentation and created 2 new OpenAPI files for the added APIs.
+- Created 2 new APIs on the website (Closest Color and Hex To RGB), for colors.
 - Updated the website with a new Tic Tac Toe experiment, a total overhaul of our blog's UI, and a new blog post.
 - Updated `Hued` to v1.0.7 with 2 new functions in `analysis.py`: color blindness simulation (major color blindness types) and color quality checking.
 - Updated `OPEN-ARC's` official website to fix scrolling issues on mobile and touch devices.
