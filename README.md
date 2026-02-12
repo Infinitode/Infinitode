@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the website with [Palette Snap](https://infinitode.netlify.app/apps/palette-snap), a web app that can extract up to 255 colors from images. Also created a new blog post.
 - Updated the documentation and created 2 new OpenAPI files for the added APIs.
 - Created 2 new APIs on the website (Closest Color and Hex To RGB), for colors.
 - Updated the website with a new Tic Tac Toe experiment, a total overhaul of our blog's UI, and a new blog post.
