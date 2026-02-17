@@ -14,6 +14,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
+- Release of `Colorlib`, a massive library of colors and palettes for designers.
 - Updates to all outdated packages.
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
