@@ -14,7 +14,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Release of `Colorlib`, a massive library of colors and palettes for designers.
 - Updates to all outdated packages.
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -26,6 +25,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- New blog post about Colorlib.
+- Release of `Colorlib`, a massive library of colors and palettes for designers.
 - Updated the website with [Palette Snap](https://infinitode.netlify.app/apps/palette-snap), a web app that can extract up to 255 colors from images. Also created a new blog post.
 - Updated the documentation and created 2 new OpenAPI files for the added APIs.
 - Created 2 new APIs on the website (Closest Color and Hex To RGB), for colors.
