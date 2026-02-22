@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `PyAutoPlot` to `v1.1.0`, with new plots, cleanup functions, smarter date detection, and new export formats.
 - New blog post about Colorlib.
 - Release of `Colorlib`, a massive library of colors and palettes for designers.
 - Updated the website with [Palette Snap](https://infinitode.netlify.app/apps/palette-snap), a web app that can extract up to 255 colors from images. Also created a new blog post.
