@@ -25,6 +25,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Created a new blog post for `PyAutoPlot v1.1.0`.
+- Updated blog articles display to be more accessible and cohesive.
+- Fixed a bug in our `Latest Changes` blog section, where URLs weren't properly displayed.
 - Updated `PyAutoPlot` to `v1.1.0`, with new plots, cleanup functions, smarter date detection, and new export formats.
 - New blog post about Colorlib.
 - Release of `Colorlib`, a massive library of colors and palettes for designers.
