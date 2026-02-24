@@ -14,7 +14,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Upcoming changes
 
-- Updates to `PWLDS`.
 - Updates to all outdated packages.
 - New AI `Hugging Face Spaces`, including models from our Bioset, Helix, Spacelens, Arc, and Acres collections.
 - New `AI APIs`.
@@ -26,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `PWLDS` to `v1.2` with 5 million new passwords.
 - Created a new blog post for `PyAutoPlot v1.1.0`.
 - Updated blog articles display to be more accessible and cohesive.
 - Fixed a bug in our `Latest Changes` blog section, where URLs weren't properly displayed.
