@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Fixed blog link rendering on the website for smaller screens.
 - Updated `PWLDS` to `v1.2` with 5 million new passwords.
 - Created a new blog post for `PyAutoPlot v1.1.0`.
 - Updated blog articles display to be more accessible and cohesive.
