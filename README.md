@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `LocalShare`! LocalShare can now automatically detect local devices using their IP addresses, which enables faster connections and easier sharing across different browsers and devices. Additionally, LocalShare now allows users to accept or decline connections during handshakes, enhancing both reliability and privacy. You can access it at https://local-share.netlify.app or view the source code on GitHub.
 - Updated `Python Projects` with 6 new projects.
 - New blog post about how AI Music affects original artists and overwhelms streaming platforms.
 - Fixed blog link rendering on the website for smaller screens.
