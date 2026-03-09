@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `Python Projects` with 6 new projects.
 - New blog post about how AI Music affects original artists and overwhelms streaming platforms.
 - Fixed blog link rendering on the website for smaller screens.
 - Updated `PWLDS` to `v1.2` with 5 million new passwords.
