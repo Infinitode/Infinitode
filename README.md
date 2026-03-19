@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Published `Alloy UI`! A fully open-source Tailwind V4 component and website layout design library. View source at: https://github.com/Infinitode/Alloy.
 - Updated `Bolt Templates` with a new template app for mobile and optimized images for the website.
 - Updated `Bolt Templates` with a new space research agency website template using modern Tailwind V4! Download and use for free: https://infinitode.netlify.app/bolt-templates.
 - Updated `LocalShare`! LocalShare can now automatically detect local devices by IP address, enabling faster connections and easier sharing across browsers and devices. Additionally, LocalShare now allows users to accept or decline connections during handshakes, enhancing both reliability and privacy. You can access it at https://local-share.netlify.app or view the source code on GitHub.
