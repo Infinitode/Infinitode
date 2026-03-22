@@ -25,7 +25,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
-- Updated the `FAQs` on GitBook about experiments use and model use.
+- Updated `Bolt Templates` with a new template for a news outlet website.
+- Added `Alloy` to the experiments page on our website.
+- Updated the `FAQs` on GitBook about experiments ([Infinitode/Experiments](https://infinitode.netlify.app/experiments)) use and model use.
 - Published `Alloy UI`! A fully open-source Tailwind V4 component and website layout design library. View source at: https://github.com/Infinitode/Alloy.
 - Updated `Bolt Templates` with a new template app for mobile and optimized images for the website.
 - Updated `Bolt Templates` with a new space research agency website template using modern Tailwind V4! Download and use for free: https://infinitode.netlify.app/bolt-templates.
