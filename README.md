@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the `FAQs` on GitBook about experiments use and model use.
 - Published `Alloy UI`! A fully open-source Tailwind V4 component and website layout design library. View source at: https://github.com/Infinitode/Alloy.
 - Updated `Bolt Templates` with a new template app for mobile and optimized images for the website.
 - Updated `Bolt Templates` with a new space research agency website template using modern Tailwind V4! Download and use for free: https://infinitode.netlify.app/bolt-templates.
@@ -280,29 +281,6 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hy/infinitode/blurjs) ![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/hm/infinitode/blurjs) ![GitHub Repo stars](https://img.shields.io/github/stars/infinitode/blurjs) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitode/blurjs)
 
-## Our Repositories
-
-| Repository Name | Description                 | Language | Link |
-|-----------------|-----------------------------|----------|------|
-| Infinitode          | Our GitHub profile.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Infinitode) |
-| Python Projects          | Example projects for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Python-Projects) |
-| LocalShare          | Minimal peer-to-peer file-sharing app built using HTML, CSS, and JS.       | HTML, CSS, JS   | [Go ▶️](https://github.com/Infinitode/LocalShare) |
-| PyAutoPlot          | Automatic plotting library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/PyAutoPlot) |
-| LocalSiteMap          | Automatic sitemap generator for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/LocalSiteMap) |
-| CodeSafe          | Code obfuscation and safe eval library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/CodeSafe) |
-| Distributables          | Distributable files for our software.       | Markdown   | [Go ▶️](https://github.com/Infinitode/Distributables) |
-| BlurJS          | Modular JavaScript library for creating blurs.       | JavaScript   | [Go ▶️](https://github.com/Infinitode/BlurJS) |
-| DupliPy          | Python library for augmentation tasks.       | Python   | [Go ▶️](https://github.com/Infinitode/DupliPy) |
-| PyWebScrapr          | Python library for text and image scraping.       | Python   | [Go ▶️](https://github.com/Infinitode/PyWebScrapr) |
-| OPEN-ARC          | Open-source project for AI collaboration with example projects.       | Python   | [Go ▶️](https://github.com/Infinitode/OPEN-ARC) |
-| Scikit-Learn Model Updater          | Python tool to convert older Sklearn models to newer versions.       | Python   | [Go ▶️](https://github.com/Infinitode/Scikit-learn-Model-Updater) |
-| DeepDefend          | Python library for deep learning defenses and attacks.       | Python   | [Go ▶️](https://github.com/Infinitode/DeepDefend) |
-| ValX          | A data validation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/ValX) |
-| Hued          | A color conversion and manipulation library for Python.       | Python   | [Go ▶️](https://github.com/Infinitode/Hued) |
-| FuncProfiler          | Python library for function profiling with line-by-line profiling support.       | Python   | [Go ▶️](https://github.com/Infinitode/FuncProfiler) |
-| PWLDS          | A password strength dataset.       | Markdown   | [Go ▶️](https://github.com/Infinitode/PWLDS) |
-| CRSD          | A customer review sentiment dataset for sentiment analysis.       | Markdown   | [Go ▶️](https://github.com/Infinitode/CRSD) |
-| Scriptify          | An open-source writing tool with real-time audio transcription powered by OpenAI's Whisper.       | Python   | [Go ▶️](https://github.com/Infinitode/Scriptify) |
 
 ## Our mission
 
