@@ -25,6 +25,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Published a new blog post about the local video compressor experiment, detailing how it works behind the scenes.  
+- Created a new `Video Compressor` experiment that compresses videos directly in your browser, without the need for uploads.
 - Updated `Bolt Templates` with a new template for a news outlet website.
 - Added `Alloy` to the experiments page on our website.
 - Updated the `FAQs` on GitBook about experiments ([Infinitode/Experiments](https://infinitode.netlify.app/experiments)) use and model use.
