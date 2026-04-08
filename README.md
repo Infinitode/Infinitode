@@ -25,6 +25,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `Python Projects` with difficulty ratings for every project and quick navigation to browse to each project.
 - Fixed missing template in `Bolt Templates`, and created a new 3D Portfolio website for `Bolt Templates`.
 - Published a new blog post about the local video compressor experiment, detailing how it works behind the scenes.  
 - Created a new `Video Compressor` experiment that compresses videos directly in your browser, without the need for uploads.
