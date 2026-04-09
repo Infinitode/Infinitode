@@ -27,6 +27,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `BlurJS` documentation on GitBook.
+- Updated `BlurJS` to version `1.6` with major performance optimizations and expanded test coverage.
 - Updated `Python Projects` with difficulty ratings for every project and quick navigation to browse to each project.
 - Fixed missing template in `Bolt Templates`, and created a new 3D Portfolio website for `Bolt Templates`.
 - Published a new blog post about the local video compressor experiment, detailing how it works behind the scenes.  
