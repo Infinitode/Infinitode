@@ -2,12 +2,12 @@
 [![Static Badge](https://img.shields.io/badge/Website-Visit-green?labelColor=white)](https://infinitode.netlify.app)
 [![Static Badge](https://img.shields.io/badge/Docs-Visit-white?labelColor=white)](https://infinitode-docs.gitbook.io/documentation)
 [![Static Badge](https://img.shields.io/badge/FAQs-Visit-white?labelColor=white)](https://infinitode-docs.gitbook.io/faqs)
-[![Static Badge](https://img.shields.io/badge/Spotify-Listen-white?logo=spotify&labelColor=black)](https://open.spotify.com/artist/6NvSE4nOwHy4Cf7Rzb2mVv?si=XxSUyhX9RuW7sdNB5Jk_4Q)
+[![Static Badge](https://img.shields.io/badge/Spotify-Listen-white?logo=spotify&labelColor=white)](https://open.spotify.com/artist/6NvSE4nOwHy4Cf7Rzb2mVv?si=XxSUyhX9RuW7sdNB5Jk_4Q)
 [![Static Badge](https://img.shields.io/badge/Twitter/X-Visit-white?logo=x&labelColor=black)](https://twitter.com/InfinitodeLtd)
-[![Static Badge](https://img.shields.io/badge/Instagram-Visit-white?logo=instagram&labelColor=black)](https://www.instagram.com/infinitode.ltd/)
-[![Static Badge](https://img.shields.io/badge/Facebook-Visit-white?logo=facebook&labelColor=black)](https://www.facebook.com/Infinitode.LTD)
-[![Static Badge](https://img.shields.io/badge/YouTube-Subscribe-white?logo=youtube&labelColor=black)](https://www.youtube.com/@infinitodeltd)
-[![Static Badge](https://img.shields.io/badge/Huggingface-Visit-white?logo=huggingface&labelColor=black)](https://huggingface.co/InfinitodeLTD)
+[![Static Badge](https://img.shields.io/badge/Instagram-Visit-white?logo=instagram&labelColor=pink)](https://www.instagram.com/infinitode.ltd/)
+[![Static Badge](https://img.shields.io/badge/Facebook-Visit-white?logo=facebook&labelColor=blue)](https://www.facebook.com/Infinitode.LTD)
+[![Static Badge](https://img.shields.io/badge/YouTube-Subscribe-white?logo=youtube&labelColor=red)](https://www.youtube.com/@infinitodeltd)
+[![Static Badge](https://img.shields.io/badge/Huggingface-Visit-white?logo=huggingface&labelColor=white)](https://huggingface.co/InfinitodeLTD)
 ![](https://komarev.com/ghpvc/?username=infinitode&color=5d17eb)
 
 Welcome to Infinitode, a cutting-edge small technology company dedicated to developing innovative solutions for the future of artificial intelligence, web development, and data science.
