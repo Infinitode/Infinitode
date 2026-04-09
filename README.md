@@ -27,6 +27,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `DeepDefend` documentation on GitBook.
+- Updated `DeepDefend` to version `0.1.5`. The package now includes fixes for some defenses and even more attack and defense techniques.
 - Updated `DupliPy` package documentation on GitBook.
 - Updated `DupliPy` to version `0.2.6`. DupliPy now includes CSV augmentation, data balancing, and new doc-lints and type hints for Python 3.10 and above.
 - Updated `BlurJS` documentation on GitBook.
