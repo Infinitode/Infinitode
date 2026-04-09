@@ -27,6 +27,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `DupliPy` package documentation on GitBook.
+- Updated `DupliPy` to version `0.2.6`. DupliPy now includes CSV augmentation, data balancing, and new doc-lints and type hints for Python 3.10 and above.
 - Updated `BlurJS` documentation on GitBook.
 - Updated `BlurJS` to version `1.6` with major performance optimizations and expanded test coverage.
 - Updated `Python Projects` with difficulty ratings for every project and quick navigation to browse to each project.
