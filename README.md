@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the blog on the website and created 2 new web apps in `/apps` on the website.
 - Updated `DeepDefend` documentation on GitBook.
 - Updated `DeepDefend` to version `0.1.5`. The package now includes fixes for some defenses and even more attack and defense techniques.
 - Updated `DupliPy` package documentation on GitBook.
