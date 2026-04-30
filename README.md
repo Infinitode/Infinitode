@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- We have retired all locally based software versions of Dungen, including Dungen AI and Dungen for Android. New and updated web-based versions will replace these. This change will enable us to roll out updates more frequently and effectively to all our users.
 - Released `FastEDSR 2x` for super-fast image upscaling tasks using AI. Use for free on the [website](https://infinitode.netlify.app) or on [Hugging Face](https://huggingface.co/spaces/InfinitodeLTD/FastEDSR).
 - Massive website update: Updated UI, layouts, and styles. We also completely overhauled forms and user dashboards, as well as pricing and other pages.
 - Updated the blog on the website and created 2 new web apps in `/apps` on the website.
