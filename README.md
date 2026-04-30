@@ -27,6 +27,8 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Wrote a new blog post about `Dungen` locally in the browser, and why we moved to local browser-based software instead of traditional software.
+- Updated the website with the new `Dungen` and `Dungen AI` local web experiments! Head on over to https://infinitode.netlify.app/experiments to test them locally.
 - Updated `Distributables` with the new deprecated notices.
 - `Synthdat` is now deprecated. Distributables and app pages will continue to function, but we are discontinuing maintenance and updates for it.
 - We have retired all locally based software versions of `Dungen`, including `Dungen AI` and `Dungen for Android`. New and updated web-based versions will replace these. This change will enable us to roll out updates more frequently and effectively to all our users.
