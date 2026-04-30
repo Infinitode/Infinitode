@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Released `FastEDSR 2x` for super-fast image upscaling tasks using AI. Use for free on the [website](https://infinitode.netlify.app) or on [Hugging Face](https://huggingface.co/spaces/InfinitodeLTD/FastEDSR).
 - Massive website update: Updated UI, layouts, and styles. We also completely overhauled forms and user dashboards, as well as pricing and other pages.
 - Updated the blog on the website and created 2 new web apps in `/apps` on the website.
 - Updated `DeepDefend` documentation on GitBook.
