@@ -27,6 +27,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `Dungen API` and related documentation to feature the new models, and updated the API to allow access to the new models.
+- Updated `HF Space` for `Dungen`, now features optimized generation and even more models.
+- Updated `Dungen AI` on the web to `v1.4`. Now features 51 game name generation models that run locally.
 - Updated `Dungen` to version `1.4` on the web, featuring 51 games for generating names in its style.
 - Wrote a new blog post about `Dungen` locally in the browser, and why we moved to local browser-based software instead of traditional software.
 - Updated the website with the new `Dungen` and `Dungen AI` local web experiments! Head on over to https://infinitode.netlify.app/experiments to test them locally.
