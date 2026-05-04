@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `CodeSafe` to `v0.0.4`. CodeSafe is now much more optimized and efficient, with a `10x` speedup for safe evals, byte support, and faster encryption/decryption.
 - Updated `Dungen API` and related documentation to feature the new models, and updated the API to allow access to the new models.
 - Updated `HF Space` for `Dungen`, now features optimized generation and even more models.
 - Updated `Dungen AI` on the web to `v1.4`. Now features 51 game name generation models that run locally.
@@ -34,7 +35,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 - Wrote a new blog post about `Dungen` locally in the browser, and why we moved to local browser-based software instead of traditional software.
 - Updated the website with the new `Dungen` and `Dungen AI` local web experiments! Head on over to https://infinitode.netlify.app/experiments to test them locally.
 - Updated `Distributables` with the new deprecated notices.
-- `Synthdat` is now deprecated. Distributables and app pages will continue to function, but we are discontinuing maintenance and updates for it.
+- `Synthdat` is now deprecated. Distributables and app pages will continue to function, but we are discontinuing maintenance and updates for them.
 - We have retired all locally based software versions of `Dungen`, including `Dungen AI` and `Dungen for Android`. New and updated web-based versions will replace these. This change will enable us to roll out updates more frequently and effectively to all our users.
 - Released `FastEDSR 2x` for super-fast image upscaling tasks using AI. Use for free on the [website](https://infinitode.netlify.app) or on [Hugging Face](https://huggingface.co/spaces/InfinitodeLTD/FastEDSR).
 - Massive website update: Updated UI, layouts, and styles. We also completely overhauled forms and user dashboards, as well as pricing and other pages.
