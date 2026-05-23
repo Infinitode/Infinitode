@@ -27,6 +27,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- We have released `Bioset CCCM (Chest Cancer Classification Model)`: View and use on [Hugging Face Spaces](https://huggingface.co/spaces/InfinitodeLTD/Bioset-CCCM), or use [locally](https://infinitode.netlify.app/experiments/bioset-cccm/).
+- We have posted a new blog post. Read more about it here: https://infinitode.netlify.app/blog/introducing-bioset-cccm-on-device-chest-cancer-classification.
+- Huge website UI update, including overall hero improvements, navigation, and footer improvements. Along with UI, we also worked on performance and responsiveness. We also finally implemented a "Sign in with Google" button.
 - Updated `CodeSafe` to `v0.0.4`. CodeSafe is now much more optimized and efficient, with a `10x` speedup for safe evals, byte support, and faster encryption/decryption.
 - Updated `Dungen API` and related documentation to feature the new models, and updated the API to allow access to the new models.
 - Updated `HF Space` for `Dungen`, now features optimized generation and even more models.
