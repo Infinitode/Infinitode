@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- We launched `Kode Magazine`! A tech and AI magazine with weekly updates: https://kode-magazine.netlify.app.
 - We have released `Bioset CCCM (Chest Cancer Classification Model)`: View and use on [Hugging Face Spaces](https://huggingface.co/spaces/InfinitodeLTD/Bioset-CCCM), or use [locally](https://infinitode.netlify.app/experiments/bioset-cccm/).
 - We have posted a new blog post. Read more about it here: https://infinitode.netlify.app/blog/introducing-bioset-cccm-on-device-chest-cancer-classification.
 - Huge website UI update, including overall hero improvements, navigation, and footer improvements. Along with UI, we also worked on performance and responsiveness. We also finally implemented a "Sign in with Google" button.
