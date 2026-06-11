@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Released `KeySynth Studio`! KeySynth Studio is a premium piano synthesia MIDI visualizer built for all creators. View it on our official itch.io page: https://infinitode.itch.io/, or view it directly: https://infinitode.itch.io/keysynth-studio.
 - Updated `LocalShare` with: new UI, staggered backoff for discovery mode, and bugfixes to avoid ID collisions.
 - Updated `Python Projects` with 3 new beginner projects and solutions.
 - We launched `Kode Magazine`! A tech and AI magazine with weekly updates: https://kode-magazine.netlify.app.
