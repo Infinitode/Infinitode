@@ -27,9 +27,10 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated `FAQs` with more common questions surrounding KeySynth Studio.
 - Updated `Kode Magazine` with new articles and news posts.
 - Updated the website with a new blog post on KeySynth Studio! KeySynth Studio will be on sale from the 24th of June 2026 to the 6th of July 2026.
-- Released `KeySynth Studio`! KeySynth Studio is a premium piano synthesia MIDI visualizer built for all creators. View it on our official itch.io page: https://infinitode.itch.io/, or view it directly: https://infinitode.itch.io/keysynth-studio.
+- Released `KeySynth Studio`! KeySynth Studio is a premium piano Synthesia MIDI visualizer built for all creators. View it on our official itch.io page: https://infinitode.itch.io/, or view it directly: https://infinitode.itch.io/keysynth-studio.
 - Updated `LocalShare` with: new UI, staggered backoff for discovery mode, and bugfixes to avoid ID collisions.
 - Updated `Python Projects` with 3 new beginner projects and solutions.
 - We launched `Kode Magazine`! A tech and AI magazine with weekly updates: https://kode-magazine.netlify.app.
