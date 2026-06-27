@@ -27,6 +27,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 
 ### Latest changes
 
+- Updated the website with new project links and fixed layout and animation performance issues.
 - Updated `FAQs` with more common questions surrounding KeySynth Studio.
 - Updated `Kode Magazine` with new articles and news posts.
 - Updated the website with a new blog post on KeySynth Studio! KeySynth Studio will be on sale from the 24th of June 2026 to the 6th of July 2026.
