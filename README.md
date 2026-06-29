@@ -26,6 +26,7 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 > Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
 
 ### Latest changes
+- Updated the website with 3 new tools on the apps page: JSON formatter, Base64 encoder, and a case converter.
 - Updated `KeySynth Studio` to `v1.1`! This includes more performance improvements and even more customizability! Learn more: https://infinitode.itch.io/keysynth-studio/devlog/1567899/keysynth-studio-v11.
 - Updated the website with new project links and fixed layout and animation performance issues.
 - Updated `FAQs` with more common questions surrounding KeySynth Studio.
