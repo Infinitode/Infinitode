@@ -26,7 +26,9 @@ Welcome to Infinitode, a cutting-edge small technology company dedicated to deve
 > Upcoming changes are changes that are planned. These changes can be removed, canceled, or staged for a later date.
 
 ### Latest changes
-- Updated `Python Projects` with 1 new intermediate project and 2 beginner projects.
+- Updated documentation of `LocalSiteMap`.
+- Updated `LocalSiteMap` to `v2.0.0` following major bug fixes, performance improvements, and new features. It can also now include custom files, not just `.htm` or `.html`.
+- Updated `Python Projects` with 1 new intermediate project and 2 beginner projects. Also added an installation guide for Python & VSCode and a new file explorer project by @Ericwasepic127.
 - Updated `Kode Magazine` with 2 new articles and more news posts.
 - Updated `Funcprofiler` to `v1.2.0` with new performance improvements to improve exports and profiling, while reducing overhead.
 - Updated the website with 3 new tools on the apps page: JSON formatter, Base64 encoder, and a case converter.
