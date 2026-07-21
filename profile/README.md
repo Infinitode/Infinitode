@@ -1,4 +1,3 @@
-# Infinitode
 [![Static Badge](https://img.shields.io/badge/Website-Visit-green?labelColor=white)](https://infinitode.netlify.app)
 [![Static Badge](https://img.shields.io/badge/Docs-Visit-white?labelColor=white)](https://infinitode-docs.gitbook.io/documentation)
 [![Static Badge](https://img.shields.io/badge/FAQs-Visit-white?labelColor=white)](https://infinitode-docs.gitbook.io/faqs)
